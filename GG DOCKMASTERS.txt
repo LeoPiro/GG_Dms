@@ -29,6 +29,7 @@
 +	GG12-B	2192	1102	7	true
 +	GG12-C	2180	1475	7	true
 +	GG13	2012	993	7	true
++	GG13-A	2159	985	7	true
 +	GG13-B	2030	1401	7	true
 +	GG13-D	2343	969	7	true
 +	GG14	2292	2570	7	true
