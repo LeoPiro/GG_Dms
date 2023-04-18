@@ -51,7 +51,6 @@
 +	GG20	1574	3087	7	true
 +	GG20-B	1289	3021	7	true
 +	GG20-A	1326	3050	7	true
-+	GG20-C	1301	3021	7	true
 +	GG21	937	3013	7	true
 +	GG21-A	747	3093	7	true
 +	GG21-B	933	2266	7	true
