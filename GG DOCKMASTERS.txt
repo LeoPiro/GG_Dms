@@ -61,7 +61,7 @@
 +	GGX-3	3779	58	7	true
 +	GGX-4A	4312	547	7	true
 +	GGX-6	4336	796	7	true
-+GGX-7 4349 937 7 true
++	GGX-7	4349	937	7	true
 +	GGX-8	4031	1489	7	true
 +	GGX-8B	3993	1519	7	true
 +	GGX-10	3820	1911	7	true
