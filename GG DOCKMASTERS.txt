@@ -1,4 +1,5 @@
 +	GG1	354	1744	7	true
++	GG1-A	418	1846	7	true
 +	GG2-A	633	1258	7	true
 +	GG3	765	1187	7	true
 +	GG5	581	1134	7	true
@@ -13,6 +14,7 @@
 +	GG9	1203	633	7	true
 +	GG9-A	1534	936	7	true
 +	GG9-B	1469	913	7	true
++	GG9-C	1217	640	7	true
 +	GG10	1328	489	7	true
 +	GG10-A	1473	510	7	true
 +	GG10-B	1054	329	7	true
@@ -23,6 +25,7 @@
 +	GG11-B	3064	424	7	true
 +	GG11-C	2619	766	7	true
 +	GG11-D	2647	362	7	true
++	GG11-E	2699	442	7	true
 +	GG-Prev	2043	1753	7	true
 +	GG12	2276	1504	7	true
 +	GG12-A	1996	1276	7	true
@@ -73,6 +76,7 @@
 +	GGX-12	3608	1260	7	true
 +	GGX-12A	3719	1369	7	true
 +	GGX-13	3623	1194	7	true
++	GGX-13A	3817 1236	7	true
 +	GGX-14	3499	1127	7	true
 +	GGX-5	4339	700	7	true
 +	GGX-4	4075	44	7	true
