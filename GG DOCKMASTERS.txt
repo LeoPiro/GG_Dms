@@ -77,4 +77,4 @@
 +	GGX-14	3499	1127	7	true
 +	GGX-5	4339	700	7	true
 +	GGX-4	4075	44	7	true
-+	The Alamo	4384	184	7	true
++	The Gym	4384	184	7	true
