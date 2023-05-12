@@ -17,6 +17,7 @@
 +	GG10-A	1473	510	7	true
 +	GG10-B	1054	329	7	true
 +	GG10-C	1787	573	7	true
++	GG10-D	1456	533	7	true
 +	GGX10-A	3536	1718	7	true
 +	GG11	2606	459	7	true
 +	GG11-A	2570	760	7	true
@@ -76,3 +77,4 @@
 +	GGX-14	3499	1127	7	true
 +	GGX-5	4339	700	7	true
 +	GGX-4	4075	44	7	true
++	The Alamo	4384 184	7	true
