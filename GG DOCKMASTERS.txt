@@ -77,8 +77,8 @@
 +	GGX-12	3608	1260	7	true
 +	GGX-12A	3719	1369	7	true
 +	GGX-13	3623	1194	7	true
-+	GGX-13A 3817  1236	7	true
++	GGX-13A	3817	1236	7	true
 +	GGX-14	3499	1127	7	true
 +	GGX-5	4339	700	7	true
 +	GGX-4	4075	44	7	true
-+	The Gym 4384  184 7 true
++	The Gym	4384	184	7	true
