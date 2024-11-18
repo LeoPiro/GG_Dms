@@ -93,7 +93,6 @@
 +	XD2	4228	2287	7	true
 +	XD3	4386	2879	7	true
 +	XD4	4320	3023	7	true
-+	XD5	3632	3598	7	true
 +	XD7	3413	3572	7	true
 +	XD8	3666	2572	7	true
 +	XD9	3775	3652	7	true
