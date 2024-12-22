@@ -73,7 +73,6 @@
 +	3A-W	455	822	7	true
 +	4A-W	523	1112	7	true
 +	4B-W	467	1089	7	true
-+	5A-W	581	1134	7	true
 +	6A-W	633	1258	7	true
 +	6B-W	872	1303	7	true
 +	7A-W	354	1744	7	true
