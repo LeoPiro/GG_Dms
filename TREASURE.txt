@@ -389,3 +389,17 @@
 +	X74	3869	3116	7	true
 +	X75	4099	3237	7	true
 +	FS Island	370	314	7	true
++	Syn Island	784	466	7	true
++	CFC Island	1104	296	7	true
++	Yew Island	2790	690	7	true
++	Face Island	917	3343	7	true
++	BB Island	1543	3244	7	true
++	LT Island	3905	3840	7	true
++	Rat Island	4029	3736	7	true
++	NC Island	4359	3101	7	true
++	DTF Island	4139	1444	7	true
++	PEC Island	2349	1574	7	true
++	CoM Island	403	2176	7	true
++	BRA Island	452	1752	7	true
++	GLC Island	212	1657	7	true
++	1CE Island	426	941	7	true
