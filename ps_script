@@ -1,0 +1,76 @@
+# Function to get the script or executable directory
+function Get-ScriptDirectory {
+    # Check if the script is running directly as a script
+    if ($MyInvocation.MyCommand.Path) {
+        return Split-Path -Parent $MyInvocation.MyCommand.Path
+    } else {
+        # If running from an executable, try to get the executable's directory
+        try {
+            $exePath = [System.Reflection.Assembly]::GetExecutingAssembly().Location
+            if ($exePath) {
+                return [System.IO.Path]::GetDirectoryName($exePath)
+            } else {
+                throw "Executable path is not available."
+            }
+        } catch {
+            # Fallback to the current working directory if the above fails
+            Write-Output "ERROR: Failed to determine script/executable directory. Falling back to current directory."
+            return (Get-Location).Path
+        }
+    }
+}
+
+# Prompt the user to ensure the "mapper" is closed
+Write-Host "RUN AS ADMINISTRATOR AND MAKE SURE MAPPER IS CLOSED."
+Write-Host "RUN AS ADMINISTRATOR AND MAKE SURE MAPPER IS CLOSED."
+Write-Host "RUN AS ADMINISTRATOR AND MAKE SURE MAPPER IS CLOSED."
+Write-Host "Press Enter to continue..." -ForegroundColor Yellow
+Read-Host
+
+# Determine the directory where the script/executable is running from
+$scriptDirectory = Get-ScriptDirectory
+Write-Output "Script Directory: $scriptDirectory"
+
+# Create directories if they don't exist
+$definitionsDir = Join-Path -Path $scriptDirectory -ChildPath "Definitions"
+$mapsDir = Join-Path -Path $scriptDirectory -ChildPath "Maps"
+
+# Log the paths for Definitions and Maps directories
+Write-Output "Definitions Directory: $definitionsDir"
+Write-Output "Maps Directory: $mapsDir"
+
+# Create the Definitions and Maps directories if they don't exist
+if (-not (Test-Path -Path $definitionsDir)) {
+    Write-Output "Creating Definitions directory..."
+    New-Item -Path $definitionsDir -ItemType Directory
+} else {
+    Write-Output "Definitions directory already exists."
+}
+
+if (-not (Test-Path -Path $mapsDir)) {
+    Write-Output "Creating Maps directory..."
+    New-Item -Path $mapsDir -ItemType Directory
+} else {
+    Write-Output "Maps directory already exists."
+}
+
+# GG Dockmaster File
+$githubUrl = "https://raw.githubusercontent.com/LeoPiro/GG_Dms/refs/heads/main/GG%20DOCKMASTERS.txt"
+$destinationPath = Join-Path -Path $definitionsDir -ChildPath "GG DOCKMASTERS.txt"
+Write-Output "Downloading GG Dockmaster File to: $destinationPath"
+Invoke-WebRequest -Uri $githubUrl -OutFile $destinationPath -UseBasicParsing
+Write-Output "Download completed for GG Dockmaster File."
+
+# GG Treasure File
+$githubUrl = "https://raw.githubusercontent.com/LeoPiro/GG_Dms/refs/heads/main/TREASURE.txt"
+$destinationPath = Join-Path -Path $definitionsDir -ChildPath "TREASURE.txt"
+Write-Output "Downloading GG Treasure File to: $destinationPath"
+Invoke-WebRequest -Uri $githubUrl -OutFile $destinationPath -UseBasicParsing
+Write-Output "Download completed for GG Treasure File."
+
+# GG Map Update
+$githubUrl = "https://raw.githubusercontent.com/LeoPiro/GG_Dms/refs/heads/main/2Dmap0.png"
+$destinationPath = Join-Path -Path $mapsDir -ChildPath "2Dmap0.png"
+Write-Output "Downloading GG Map Update to: $destinationPath"
+Invoke-WebRequest -Uri $githubUrl -OutFile $destinationPath -UseBasicParsing
+Write-Output "Download completed for GG Map Update."
