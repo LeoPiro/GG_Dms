@@ -20,7 +20,6 @@
 +	6E-E	3820	1911	7	true
 +	6F-E	4031	1489	7	true
 +	1A-N	1054	329	7	true
-+	1B-N	942	514	7	true
 +	2B-N	1361	448	7	true
 +	2C-N	1456	533	7	true
 +	2D-N	1473	510	7	true
