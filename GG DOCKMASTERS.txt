@@ -78,6 +78,7 @@
 +	The Gym	4384	184	7	true
 +	GG-Shelter	1655	2667	7	true
 +	XD10	4145	3250	7	true
++	XD11	3332	3272	7	true
 +	XD2	4228	2287	7	true
 +	XD3	4386	2879	7	true
 +	XD7	3413	3572	7	true
