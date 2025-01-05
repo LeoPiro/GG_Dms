@@ -13,7 +13,6 @@
 +	PUB13	650	1515	7	true
 +	PUB14	689	1460	7	true
 +	PUB15	1032	1156	7	true
-+	PUB16	448	570	7	true
 +	PUB17	2307	462	7	true
 +	PUB-X1	3235	190	7	true
 +	PUB-X2	4308	108	7	true
