@@ -34,6 +34,7 @@
 +	6D-N	4075	44	7	true
 +	1A-S	746	3263	7	true
 +	1B-S	937	3013	7	true
++	2A-S	1470	3110	7	true
 +	2B-S	1326	3050	7	true
 +	2D-S	1801	3183	7	true
 +	3A-S	2065	3164	7	true
