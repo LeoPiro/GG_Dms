@@ -82,6 +82,7 @@
 +	7B-W	851	1807	7	true
 +	7C-W	933	2266	7	true
 +	7D-W	1132	2541	7	true
++	7E-W	691	1887	7	true
 +	8A-W	2292	2570	7	true
 +	8B-W	2290	2423	7	true
 +	8C-W	2230	2163	7	true
