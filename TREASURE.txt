@@ -406,3 +406,6 @@
 +	SOF Island	3490	3734	7	true
 +	DOK Island	2329	297	7	true
 +	NKB Island	4308	2243	7	true
++	Evil Island	443	1219	7	true
++	NWO Island	2153	339	7	true
++	RAQ Island	629	1352	7	true
