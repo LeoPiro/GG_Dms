@@ -409,3 +409,94 @@
 +	Evil Island	443	1219	7	true
 +	NWO Island	2153	339	7	true
 +	RAQ Island	629	1352	7	true
++	Colony	6745	1621	7	true
++	Exit	7257	1173	7	true
++	Jump	7454	1221	7	true
++	Jump	7409	1301	7	true
++	Burning Lich	7518	1312	7	true
++	Outpost	7432	1319	7	true
++	Knock	7367	1389	7	true
++	Red Name	7322	1404	7	true
++	Knock	7284	1307	7	true
++	Knock	7317	1379	7	true
++	Knock	7257	1283	7	true
++	Lvl 2	7490	1351	7	true
++	Arnold	7382	1125	7	true
++	Lvl 1	6705	1195	7	true
++	Lvl 3	6691	1228	7	true
++	Knock	6668	1282	7	true
++	Knock	6781	1275	7	true
++	Knock	6913	1277	7	true
++	Pr	6900	1214	7	true
++	Outpost	6924	1288	7	true
++	Stonegate	6778	1266	7	true
++	Exit	7257	1173	7	true
++	Jump	7454	1221	7	true
++	Jump	7409	1301	7	true
++	Burning Lich	7518	1312	7	true
++	Outpost	7432	1319	7	true
++	Knock	7367	1389	7	true
++	Red Name	7322	1404	7	true
++	Knock	7284	1307	7	true
++	Knock	7317	1379	7	true
++	Portal Stonegate	7230	1303	7	true
++	Lvl 2	7490	1351	7	true
++	Arnold	7382	1125	7	true
++	Lvl 1	6705	1195	7	true
++	Lvl 3	6691	1228	7	true
++	Knock	6668	1282	7	true
++	Knock	6781	1275	7	true
++	Knock	6913	1277	7	true
++	Pr	6900	1214	7	true
++	Outpost	6924	1288	7	true
++	Stonegate	6778	1266	7	true
++	Exit	5297	1675	7	true
++	Zombie	5337	1645	7	true
++	Knock	5216	1697	7	true
++	Stair	5141	1608	7	true
++	Lvl 2	5078	1612	7	true
++	Outpost	6706	1387	7	true
++	Maze Tele	7667	1452	7	true
++	Outpost	7736	1354	7	true
++	Trader P	7703	1388	7	true
++	Knock	7684	1333	7	true
++	Knock	7760	1524	7	true
++	Knock	7842	1420	7	true
++	Lvl 3	7877	1524	7	true
++	Knock	7842	1530	7	true
++	Red Name	5231	1058	7	true
++	Red Name	5296	1045	7	true
++	Mage Tower	5254	999	7	true
++	Rel Por	5333	969	7	true
++	Rel Por	5346	967	7	true
++	Sewer 2	5311	954	7	true
++	Knock	5401	1027	7	true
++	Old Prev Patrol	5403	1020	7	true
++	Lvl 2	6792	764	7	true
++	Waystar	6807	781	7	true
++	Rel Por	6687	814	7	true
++	Rel Por	6678	820	7	true
++	Rel Por	6716	837	7	true
++	Rel Por	6733	836	7	true
++	Rel Por	6807	820	7	true
++	Red Name	6802	851	7	true
++	Sewer	6844	844	7	true
++	Runes	6725	882	7	true
++	Knock	6711	919	7	true
++	Knock	6699	943	7	true
++	Ship	6677	937	7	true
++	Knock	6679	955	7	true
++	Triple Red	6755	1027	7	true
++	Rel Por	6791	1023	7	true
++	Rel Por	6798	1022	7	true
++	Gate A	6818	977	7	true
++	Gate A	6668	925	7	true
++	Gate B	6700	903	7	true
++	Gate B	6798	811	7	true
++	Vendor	6900	854	7	true
++	Knock	6790	919	7	true
++	Portal Stair	6793	942	7	true
++	Red Name	6873	930	7	true
++	Knock	6882	917	7	true
++	Outpost	6701	820	7	true
++	Red Name	6841	999	7	true
