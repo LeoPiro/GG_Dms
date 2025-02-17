@@ -402,6 +402,7 @@
 +	CoM Island	403	2176	7	true
 +	BRA Island	452	1752	7	true
 +	GLC Island	212	1657	7	true
++	NEW Island	4189	1834	7	true
 +	1CE Island	426	941	7	true
 +	SOF Island	3490	3734	7	true
 +	DOK Island	2329	297	7	true
