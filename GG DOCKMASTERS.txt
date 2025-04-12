@@ -72,6 +72,7 @@
 +	1B-W	1222	635	7	true
 +	2A-W	1043	590	7	true
 +	2B-W	738	542	7	true
++	3B-W	579	855	7	true
 +	2C-W	656	603	7	true
 +	2D-W	840	921	7	true
 +	2E-W	1313	927	7	true
