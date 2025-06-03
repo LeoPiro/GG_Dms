@@ -46,7 +46,6 @@
 +	1A-S	746	3263	7	true
 +	1B-S	937	3013	7	true
 +	1C-S	953	2753	7	true
-+	2A-S	1470	3110	7	true
 +	2B-S	1326	3050	7	true
 +	2D-S	1801	3183	7	true
 +	3A-S	2065	3164	7	true
@@ -59,15 +58,12 @@
 +	5A-S	2868	3497	7	true
 +	5B-S	2870	3517	7	true
 +	5C-S	2747	3289	7	true
-+	5D-S	2799	3349	7	true
 +	6A-S	2607	3546	7	true
 +	6B-S	2756	3594	7	true
 +	6C-S	3020	3666	7	true
 +	7A-S	3299	3600	7	true
 +	8A-S	3428	3812	7	true
 +	11A-W	2192	1102	7	true
-+	12A-W	2012	993	7	true
-+	12B-W	2189	973	7	true
 +	13A-W	2343	969	7	true
 +	1A-W	1203	633	7	true
 +	1B-W	1222	635	7	true
@@ -95,13 +91,14 @@
 +	8D-W	2030	2029	7	true
 +	8E-W	2043	1753	7	true
 +	9A-W	2280	1527	7	true
++ 9B-W  2175  1457  7 true
 +	The Gym	4384	184	7	true
 +	GH	4384	6142	7	true
 +	GG-Shelter	1655	2667	7	true
 +	XD10	4145	3250	7	true
 +	XD11	3332	3272	7	true
 +	XD12	3043	3150	7	true
-+	XD13	3117	3228	7	true
++	XD13	3155	2950	7	true
 +	XD14	3368	2789	7	true
 +	XD1	3610	1961	7	true
 +	XD2	4228	2287	7	true
