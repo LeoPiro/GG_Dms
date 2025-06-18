@@ -95,7 +95,6 @@
 +	GH	4384	6142	7	true
 +	GG-Shelter	1655	2667	7	true
 +	XD10	4145	3250	7	true
-+	XD11	3332	3272	7	true
 +	XD12	3043	3150	7	true
 +	XD14	3368	2789	7	true
 +	XD1	3610	1961	7	true
