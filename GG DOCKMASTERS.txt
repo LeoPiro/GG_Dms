@@ -81,7 +81,6 @@ XP3	3846	3726	7	true
 7B-W	851	1807	7	true
 7C-W	933	2266	7	true
 7D-W	1132	2541	7	true
-7E-W	691	1887	7	true
 7F-W	722	1864	7	true
 8A-S	3428	3812	7	true
 8A-W	2292	2570	7	true
