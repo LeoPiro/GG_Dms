@@ -95,7 +95,6 @@ XP3	3846	3726	7	true
 9C-W	2283	1482	7	true
 10A-W	2183	985	7	true
 11A-W	2192	1102	7	true
-12A-W	2323	1482	7	true
 13A-W	2343	969	7	true
 GG-Shelter	1655	2667	7	true
 GH	4384	6142	7	true
