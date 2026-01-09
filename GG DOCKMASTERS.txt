@@ -29,8 +29,6 @@ XP3	3846	3726	7	true
 2A-N	1750	527	7	true
 2A-W	1043	590	7	true
 2B-E	3947	1300	7	true
-2B-N	1361	448	7	true
-2B-N	1361	6142	7	true
 2B-S	1326	3050	7	true
 2C-N	1456	533	7	true
 2C-W	656	603	7	true
