@@ -1,0 +1,2108 @@
+# Treasure Map Locations YAML Format
+# Format: name as key, with x, y, owner attributes
+
+pack_name: "Treasure Map Locations"
+revision: 1
+
+markers:
+  # === CC (Center) Markers ===
+  CC1:
+    x: 838
+    y: 607
+    owner: "unknown"
+
+  CC2:
+    x: 899
+    y: 595
+    owner: "unknown"
+
+  CC3:
+    x: 894
+    y: 639
+    owner: "unknown"
+
+  CC4:
+    x: 835
+    y: 691
+    owner: "unknown"
+
+  CC5:
+    x: 893
+    y: 691
+    owner: "unknown"
+
+  CC6:
+    x: 912
+    y: 746
+    owner: "unknown"
+
+  CC7:
+    x: 886
+    y: 810
+    owner: "unknown"
+
+  CC8:
+    x: 834
+    y: 806
+    owner: "unknown"
+
+  CC9:
+    x: 908
+    y: 853
+    owner: "unknown"
+
+  CC10:
+    x: 900
+    y: 897
+    owner: "unknown"
+
+  CC11:
+    x: 955
+    y: 882
+    owner: "unknown"
+
+  CC12:
+    x: 954
+    y: 823
+    owner: "unknown"
+
+  CC13:
+    x: 1026
+    y: 850
+    owner: "unknown"
+
+  CC14:
+    x: 1036
+    y: 820
+    owner: "unknown"
+
+  CC15:
+    x: 1016
+    y: 764
+    owner: "unknown"
+
+  CC16:
+    x: 982
+    y: 792
+    owner: "unknown"
+
+  CC17:
+    x: 991
+    y: 672
+    owner: "unknown"
+
+  CC18:
+    x: 962
+    y: 713
+    owner: "unknown"
+
+  CC19:
+    x: 806
+    y: 848
+    owner: "unknown"
+
+  # === E (East) Markers ===
+  E1:
+    x: 3239
+    y: 592
+    owner: "unknown"
+
+  E2:
+    x: 3289
+    y: 476
+    owner: "unknown"
+
+  E3:
+    x: 3351
+    y: 536
+    owner: "unknown"
+
+  E4:
+    x: 3513
+    y: 556
+    owner: "unknown"
+
+  E5:
+    x: 3289
+    y: 704
+    owner: "unknown"
+
+  E6:
+    x: 3303
+    y: 846
+    owner: "unknown"
+
+  E7:
+    x: 3339
+    y: 660
+    owner: "unknown"
+
+  E8:
+    x: 3351
+    y: 781
+    owner: "unknown"
+
+  E9:
+    x: 3437
+    y: 700
+    owner: "unknown"
+
+  E10:
+    x: 3445
+    y: 821
+    owner: "unknown"
+
+  E11:
+    x: 3428
+    y: 924
+    owner: "unknown"
+
+  E12:
+    x: 3481
+    y: 642
+    owner: "unknown"
+
+  E13:
+    x: 3601
+    y: 675
+    owner: "unknown"
+
+  E14:
+    x: 3639
+    y: 715
+    owner: "unknown"
+
+  E15:
+    x: 3617
+    y: 824
+    owner: "unknown"
+
+  E16:
+    x: 3789
+    y: 758
+    owner: "unknown"
+
+  E17:
+    x: 3970
+    y: 722
+    owner: "unknown"
+
+  E18:
+    x: 4131
+    y: 751
+    owner: "unknown"
+
+  E19:
+    x: 4095
+    y: 653
+    owner: "unknown"
+
+  E20:
+    x: 4203
+    y: 533
+    owner: "unknown"
+
+  E21:
+    x: 4265
+    y: 485
+    owner: "unknown"
+
+  E22:
+    x: 4272
+    y: 641
+    owner: "unknown"
+
+  E23:
+    x: 4184
+    y: 786
+    owner: "unknown"
+
+  E24:
+    x: 4271
+    y: 750
+    owner: "unknown"
+
+  E25:
+    x: 3556
+    y: 1055
+    owner: "unknown"
+
+  E26:
+    x: 3469
+    y: 1165
+    owner: "unknown"
+
+  E27:
+    x: 3625
+    y: 1144
+    owner: "unknown"
+
+  E28:
+    x: 3707
+    y: 952
+    owner: "unknown"
+
+  E29:
+    x: 3854
+    y: 832
+    owner: "unknown"
+
+  E30:
+    x: 3767
+    y: 1249
+    owner: "unknown"
+
+  E31:
+    x: 3740
+    y: 1185
+    owner: "unknown"
+
+  E32:
+    x: 3880
+    y: 1236
+    owner: "unknown"
+
+  E33:
+    x: 3816
+    y: 1062
+    owner: "unknown"
+
+  E34:
+    x: 3953
+    y: 1004
+    owner: "unknown"
+
+  E35:
+    x: 4005
+    y: 884
+    owner: "unknown"
+
+  E36:
+    x: 4020
+    y: 1154
+    owner: "unknown"
+
+  E37:
+    x: 4031
+    y: 1331
+    owner: "unknown"
+
+  E38:
+    x: 4141
+    y: 1299
+    owner: "unknown"
+
+  E39:
+    x: 4153
+    y: 935
+    owner: "unknown"
+
+  E40:
+    x: 4262
+    y: 919
+    owner: "unknown"
+
+  E41:
+    x: 4325
+    y: 1137
+    owner: "unknown"
+
+  E42:
+    x: 4189
+    y: 1067
+    owner: "unknown"
+
+  E43:
+    x: 3760
+    y: 1341
+    owner: "unknown"
+
+  E44:
+    x: 3788
+    y: 1355
+    owner: "unknown"
+
+  E45:
+    x: 3823
+    y: 1347
+    owner: "unknown"
+
+  E46:
+    x: 3783
+    y: 1396
+    owner: "unknown"
+
+  E47:
+    x: 3859
+    y: 1341
+    owner: "unknown"
+
+  E48:
+    x: 3924
+    y: 1356
+    owner: "unknown"
+
+  E49:
+    x: 3856
+    y: 1430
+    owner: "unknown"
+
+  E50:
+    x: 3706
+    y: 1431
+    owner: "unknown"
+
+  E51:
+    x: 3632
+    y: 1528
+    owner: "unknown"
+
+  E52:
+    x: 3875
+    y: 1515
+    owner: "unknown"
+
+  E53:
+    x: 3926
+    y: 1568
+    owner: "unknown"
+
+  E54:
+    x: 3770
+    y: 1708
+    owner: "unknown"
+
+  E55:
+    x: 3844
+    y: 1765
+    owner: "unknown"
+
+  E56:
+    x: 3954
+    y: 1688
+    owner: "unknown"
+
+  E57:
+    x: 4045
+    y: 1646
+    owner: "unknown"
+
+  E58:
+    x: 4024
+    y: 1854
+    owner: "unknown"
+
+  # === N (North) Markers ===
+  N1:
+    x: 1019
+    y: 452
+    owner: "unknown"
+
+  N2:
+    x: 1107
+    y: 380
+    owner: "unknown"
+
+  N3:
+    x: 1063
+    y: 435
+    owner: "unknown"
+
+  N4:
+    x: 1155
+    y: 448
+    owner: "unknown"
+
+  N5:
+    x: 1262
+    y: 459
+    owner: "unknown"
+
+  N6:
+    x: 1345
+    y: 522
+    owner: "unknown"
+
+  N7:
+    x: 1409
+    y: 474
+    owner: "unknown"
+
+  N8:
+    x: 1327
+    y: 631
+    owner: "unknown"
+
+  N9:
+    x: 1464
+    y: 563
+    owner: "unknown"
+
+  N10:
+    x: 1543
+    y: 547
+    owner: "unknown"
+
+  N11:
+    x: 1657
+    y: 517
+    owner: "unknown"
+
+  N12:
+    x: 1706
+    y: 616
+    owner: "unknown"
+
+  N13:
+    x: 1919
+    y: 566
+    owner: "unknown"
+
+  N14:
+    x: 1368
+    y: 724
+    owner: "unknown"
+
+  N15:
+    x: 1530
+    y: 663
+    owner: "unknown"
+
+  N16:
+    x: 1645
+    y: 699
+    owner: "unknown"
+
+  N17:
+    x: 1424
+    y: 835
+    owner: "unknown"
+
+  N18:
+    x: 1477
+    y: 762
+    owner: "unknown"
+
+  N19:
+    x: 1559
+    y: 820
+    owner: "unknown"
+
+  N20:
+    x: 1676
+    y: 799
+    owner: "unknown"
+
+  N21:
+    x: 1729
+    y: 902
+    owner: "unknown"
+
+  N22:
+    x: 2051
+    y: 452
+    owner: "unknown"
+
+  N23:
+    x: 1972
+    y: 608
+    owner: "unknown"
+
+  N24:
+    x: 1895
+    y: 679
+    owner: "unknown"
+
+  N25:
+    x: 1909
+    y: 768
+    owner: "unknown"
+
+  N26:
+    x: 1793
+    y: 812
+    owner: "unknown"
+
+  N27:
+    x: 1813
+    y: 894
+    owner: "unknown"
+
+  N28:
+    x: 1797
+    y: 919
+    owner: "unknown"
+
+  N29:
+    x: 1834
+    y: 939
+    owner: "unknown"
+
+  N30:
+    x: 1899
+    y: 907
+    owner: "unknown"
+
+  N31:
+    x: 1945
+    y: 814
+    owner: "unknown"
+
+  N32:
+    x: 2024
+    y: 781
+    owner: "unknown"
+
+  N33:
+    x: 2092
+    y: 897
+    owner: "unknown"
+
+  N34:
+    x: 2197
+    y: 492
+    owner: "unknown"
+
+  N35:
+    x: 2377
+    y: 573
+    owner: "unknown"
+
+  N36:
+    x: 2358
+    y: 643
+    owner: "unknown"
+
+  N37:
+    x: 2346
+    y: 749
+    owner: "unknown"
+
+  N38:
+    x: 2485
+    y: 565
+    owner: "unknown"
+
+  N39:
+    x: 2514
+    y: 621
+    owner: "unknown"
+
+  N40:
+    x: 2447
+    y: 684
+    owner: "unknown"
+
+  N41:
+    x: 2421
+    y: 753
+    owner: "unknown"
+
+  N42:
+    x: 2429
+    y: 450
+    owner: "unknown"
+
+  N43:
+    x: 2591
+    y: 514
+    owner: "unknown"
+
+  N44:
+    x: 2614
+    y: 615
+    owner: "unknown"
+
+  N45:
+    x: 2625
+    y: 730
+    owner: "unknown"
+
+  N46:
+    x: 2664
+    y: 415
+    owner: "unknown"
+
+  N47:
+    x: 2714
+    y: 613
+    owner: "unknown"
+
+  N48:
+    x: 2802
+    y: 419
+    owner: "unknown"
+
+  N49:
+    x: 2949
+    y: 572
+    owner: "unknown"
+
+  N50:
+    x: 3186
+    y: 162
+    owner: "unknown"
+
+  N51:
+    x: 3221
+    y: 232
+    owner: "unknown"
+
+  N52:
+    x: 3261
+    y: 109
+    owner: "unknown"
+
+  N53:
+    x: 3287
+    y: 138
+    owner: "unknown"
+
+  N54:
+    x: 3408
+    y: 128
+    owner: "unknown"
+
+  N55:
+    x: 3467
+    y: 63
+    owner: "unknown"
+
+  N56:
+    x: 3528
+    y: 107
+    owner: "unknown"
+
+  N57:
+    x: 3551
+    y: 181
+    owner: "unknown"
+
+  N58:
+    x: 3647
+    y: 138
+    owner: "unknown"
+
+  N59:
+    x: 3747
+    y: 112
+    owner: "unknown"
+
+  N60:
+    x: 4050
+    y: 73
+    owner: "unknown"
+
+  N61:
+    x: 4286
+    y: 140
+    owner: "unknown"
+
+  N62:
+    x: 3184
+    y: 313
+    owner: "unknown"
+
+  N63:
+    x: 3330
+    y: 301
+    owner: "unknown"
+
+  N64:
+    x: 3463
+    y: 252
+    owner: "unknown"
+
+  N65:
+    x: 3603
+    y: 233
+    owner: "unknown"
+
+  N66:
+    x: 3604
+    y: 343
+    owner: "unknown"
+
+  N67:
+    x: 3693
+    y: 429
+    owner: "unknown"
+
+  N68:
+    x: 3821
+    y: 407
+    owner: "unknown"
+
+  N69:
+    x: 3833
+    y: 293
+    owner: "unknown"
+
+  N70:
+    x: 3867
+    y: 340
+    owner: "unknown"
+
+  N71:
+    x: 3929
+    y: 238
+    owner: "unknown"
+
+  N72:
+    x: 3931
+    y: 351
+    owner: "unknown"
+
+  N73:
+    x: 4093
+    y: 226
+    owner: "unknown"
+
+  N74:
+    x: 4201
+    y: 300
+    owner: "unknown"
+
+  N75:
+    x: 4358
+    y: 280
+    owner: "unknown"
+
+  # === S (South) Markers ===
+  S1:
+    x: 727
+    y: 3197
+    owner: "unknown"
+
+  S2:
+    x: 764
+    y: 3114
+    owner: "unknown"
+
+  S3:
+    x: 873
+    y: 3155
+    owner: "unknown"
+
+  S4:
+    x: 823
+    y: 3048
+    owner: "unknown"
+
+  S5:
+    x: 1000
+    y: 3060
+    owner: "unknown"
+
+  S6:
+    x: 903
+    y: 2829
+    owner: "unknown"
+
+  S7:
+    x: 1070
+    y: 3315
+    owner: "unknown"
+
+  S8:
+    x: 1057
+    y: 2642
+    owner: "unknown"
+
+  S9:
+    x: 1157
+    y: 2538
+    owner: "unknown"
+
+  S10:
+    x: 1210
+    y: 2682
+    owner: "unknown"
+
+  S11:
+    x: 1365
+    y: 2708
+    owner: "unknown"
+
+  S12:
+    x: 1166
+    y: 2915
+    owner: "unknown"
+
+  S13:
+    x: 1339
+    y: 2922
+    owner: "unknown"
+
+  S14:
+    x: 1464
+    y: 2644
+    owner: "unknown"
+
+  S15:
+    x: 1491
+    y: 2527
+    owner: "unknown"
+
+  S16:
+    x: 1532
+    y: 2599
+    owner: "unknown"
+
+  S17:
+    x: 1582
+    y: 2695
+    owner: "unknown"
+
+  S18:
+    x: 1592
+    y: 2891
+    owner: "unknown"
+
+  S19:
+    x: 1518
+    y: 3032
+    owner: "unknown"
+
+  S20:
+    x: 1442
+    y: 2943
+    owner: "unknown"
+
+  S21:
+    x: 1775
+    y: 3143
+    owner: "unknown"
+
+  S22:
+    x: 2157
+    y: 2832
+    owner: "unknown"
+
+  S23:
+    x: 2195
+    y: 2830
+    owner: "unknown"
+
+  S24:
+    x: 2220
+    y: 2861
+    owner: "unknown"
+
+  S25:
+    x: 2179
+    y: 2902
+    owner: "unknown"
+
+  S26:
+    x: 2221
+    y: 2888
+    owner: "unknown"
+
+  S27:
+    x: 2237
+    y: 2973
+    owner: "unknown"
+
+  S28:
+    x: 2012
+    y: 3246
+    owner: "unknown"
+
+  S29:
+    x: 2183
+    y: 3145
+    owner: "unknown"
+
+  S30:
+    x: 2336
+    y: 3128
+    owner: "unknown"
+
+  S31:
+    x: 2203
+    y: 3260
+    owner: "unknown"
+
+  S32:
+    x: 2317
+    y: 3318
+    owner: "unknown"
+
+  S33:
+    x: 2150
+    y: 3423
+    owner: "unknown"
+
+  S34:
+    x: 2302
+    y: 3481
+    owner: "unknown"
+
+  S35:
+    x: 2426
+    y: 3352
+    owner: "unknown"
+
+  S36:
+    x: 2631
+    y: 3474
+    owner: "unknown"
+
+  S37:
+    x: 2732
+    y: 3384
+    owner: "unknown"
+
+  S38:
+    x: 2855
+    y: 3336
+    owner: "unknown"
+
+  S39:
+    x: 2986
+    y: 3695
+    owner: "unknown"
+
+  S40:
+    x: 3054
+    y: 3480
+    owner: "unknown"
+
+  S41:
+    x: 3059
+    y: 3411
+    owner: "unknown"
+
+  S42:
+    x: 3078
+    y: 3497
+    owner: "unknown"
+
+  S43:
+    x: 3122
+    y: 3489
+    owner: "unknown"
+
+  S44:
+    x: 3164
+    y: 3422
+    owner: "unknown"
+
+  S45:
+    x: 3209
+    y: 3386
+    owner: "unknown"
+
+  S46:
+    x: 3258
+    y: 3343
+    owner: "unknown"
+
+  S47:
+    x: 3268
+    y: 3521
+    owner: "unknown"
+
+  S48:
+    x: 3285
+    y: 3735
+    owner: "unknown"
+
+  # === W (West) Markers ===
+  W1:
+    x: 686
+    y: 544
+    owner: "unknown"
+
+  W2:
+    x: 655
+    y: 733
+    owner: "unknown"
+
+  W3:
+    x: 783
+    y: 594
+    owner: "unknown"
+
+  W4:
+    x: 830
+    y: 610
+    owner: "unknown"
+
+  W5:
+    x: 771
+    y: 743
+    owner: "unknown"
+
+  W6:
+    x: 918
+    y: 584
+    owner: "unknown"
+
+  W7:
+    x: 981
+    y: 650
+    owner: "unknown"
+
+  W8:
+    x: 891
+    y: 793
+    owner: "unknown"
+
+  W9:
+    x: 1027
+    y: 741
+    owner: "unknown"
+
+  W10:
+    x: 1144
+    y: 753
+    owner: "unknown"
+
+  W11:
+    x: 476
+    y: 856
+    owner: "unknown"
+
+  W12:
+    x: 586
+    y: 995
+    owner: "unknown"
+
+  W13:
+    x: 614
+    y: 921
+    owner: "unknown"
+
+  W14:
+    x: 689
+    y: 862
+    owner: "unknown"
+
+  W15:
+    x: 618
+    y: 1219
+    owner: "unknown"
+
+  W16:
+    x: 722
+    y: 1183
+    owner: "unknown"
+
+  W17:
+    x: 815
+    y: 1050
+    owner: "unknown"
+
+  W18:
+    x: 916
+    y: 926
+    owner: "unknown"
+
+  W19:
+    x: 1037
+    y: 898
+    owner: "unknown"
+
+  W20:
+    x: 987
+    y: 1126
+    owner: "unknown"
+
+  W21:
+    x: 1115
+    y: 997
+    owner: "unknown"
+
+  W22:
+    x: 1145
+    y: 941
+    owner: "unknown"
+
+  W23:
+    x: 1198
+    y: 890
+    owner: "unknown"
+
+  W24:
+    x: 1164
+    y: 1038
+    owner: "unknown"
+
+  W25:
+    x: 1333
+    y: 987
+    owner: "unknown"
+
+  W26:
+    x: 1201
+    y: 1223
+    owner: "unknown"
+
+  W27:
+    x: 1349
+    y: 1167
+    owner: "unknown"
+
+  W28:
+    x: 1425
+    y: 1045
+    owner: "unknown"
+
+  W29:
+    x: 1574
+    y: 1062
+    owner: "unknown"
+
+  W30:
+    x: 1653
+    y: 1021
+    owner: "unknown"
+
+  W31:
+    x: 1787
+    y: 1005
+    owner: "unknown"
+
+  W32:
+    x: 1959
+    y: 996
+    owner: "unknown"
+
+  W33:
+    x: 893
+    y: 1376
+    owner: "unknown"
+
+  W34:
+    x: 957
+    y: 1569
+    owner: "unknown"
+
+  W35:
+    x: 1041
+    y: 1399
+    owner: "unknown"
+
+  W36:
+    x: 1097
+    y: 1353
+    owner: "unknown"
+
+  W37:
+    x: 1195
+    y: 1351
+    owner: "unknown"
+
+  W38:
+    x: 1254
+    y: 1454
+    owner: "unknown"
+
+  W39:
+    x: 1326
+    y: 1384
+    owner: "unknown"
+
+  W40:
+    x: 1371
+    y: 1273
+    owner: "unknown"
+
+  W41:
+    x: 1410
+    y: 1193
+    owner: "unknown"
+
+  W42:
+    x: 1429
+    y: 1266
+    owner: "unknown"
+
+  W43:
+    x: 1491
+    y: 1317
+    owner: "unknown"
+
+  W44:
+    x: 1581
+    y: 1384
+    owner: "unknown"
+
+  W45:
+    x: 1673
+    y: 1259
+    owner: "unknown"
+
+  W46:
+    x: 1720
+    y: 1119
+    owner: "unknown"
+
+  W47:
+    x: 1927
+    y: 1059
+    owner: "unknown"
+
+  W48:
+    x: 1949
+    y: 1182
+    owner: "unknown"
+
+  W49:
+    x: 2328
+    y: 1273
+    owner: "unknown"
+
+  W50:
+    x: 2336
+    y: 1095
+    owner: "unknown"
+
+  W51:
+    x: 2460
+    y: 1159
+    owner: "unknown"
+
+  W52:
+    x: 220
+    y: 1894
+    owner: "unknown"
+
+  W53:
+    x: 290
+    y: 2134
+    owner: "unknown"
+
+  W54:
+    x: 330
+    y: 2034
+    owner: "unknown"
+
+  W55:
+    x: 452
+    y: 2036
+    owner: "unknown"
+
+  W56:
+    x: 492
+    y: 2104
+    owner: "unknown"
+
+  W57:
+    x: 529
+    y: 1905
+    owner: "unknown"
+
+  W58:
+    x: 662
+    y: 1810
+    owner: "unknown"
+
+  W59:
+    x: 765
+    y: 1808
+    owner: "unknown"
+
+  W60:
+    x: 961
+    y: 1811
+    owner: "unknown"
+
+  W61:
+    x: 992
+    y: 1736
+    owner: "unknown"
+
+  W62:
+    x: 1093
+    y: 1734
+    owner: "unknown"
+
+  W63:
+    x: 1145
+    y: 1699
+    owner: "unknown"
+
+  W64:
+    x: 1075
+    y: 1671
+    owner: "unknown"
+
+  W65:
+    x: 1120
+    y: 1649
+    owner: "unknown"
+
+  W66:
+    x: 1159
+    y: 1606
+    owner: "unknown"
+
+  W67:
+    x: 1225
+    y: 1670
+    owner: "unknown"
+
+  W68:
+    x: 1263
+    y: 1581
+    owner: "unknown"
+
+  W69:
+    x: 1327
+    y: 1664
+    owner: "unknown"
+
+  W70:
+    x: 1462
+    y: 1699
+    owner: "unknown"
+
+  W71:
+    x: 1526
+    y: 1639
+    owner: "unknown"
+
+  W72:
+    x: 972
+    y: 2030
+    owner: "unknown"
+
+  W73:
+    x: 1155
+    y: 1847
+    owner: "unknown"
+
+  W74:
+    x: 1314
+    y: 1807
+    owner: "unknown"
+
+  W75:
+    x: 1419
+    y: 1915
+    owner: "unknown"
+
+  W76:
+    x: 1470
+    y: 1956
+    owner: "unknown"
+
+  W77:
+    x: 1542
+    y: 1816
+    owner: "unknown"
+
+  W78:
+    x: 1523
+    y: 1984
+    owner: "unknown"
+
+  W79:
+    x: 1727
+    y: 1885
+    owner: "unknown"
+
+  W80:
+    x: 1774
+    y: 1996
+    owner: "unknown"
+
+  W81:
+    x: 1884
+    y: 1901
+    owner: "unknown"
+
+  W82:
+    x: 1878
+    y: 1979
+    owner: "unknown"
+
+  W83:
+    x: 1866
+    y: 2036
+    owner: "unknown"
+
+  W84:
+    x: 1963
+    y: 1959
+    owner: "unknown"
+
+  W85:
+    x: 1971
+    y: 2016
+    owner: "unknown"
+
+  W86:
+    x: 2046
+    y: 1846
+    owner: "unknown"
+
+  W87:
+    x: 2091
+    y: 1905
+    owner: "unknown"
+
+  W88:
+    x: 2114
+    y: 2043
+    owner: "unknown"
+
+  W89:
+    x: 961
+    y: 2154
+    owner: "unknown"
+
+  W90:
+    x: 1038
+    y: 2297
+    owner: "unknown"
+
+  W91:
+    x: 1166
+    y: 2231
+    owner: "unknown"
+
+  W92:
+    x: 1202
+    y: 2372
+    owner: "unknown"
+
+  W93:
+    x: 1331
+    y: 2240
+    owner: "unknown"
+
+  W94:
+    x: 1385
+    y: 2163
+    owner: "unknown"
+
+  W95:
+    x: 1381
+    y: 2126
+    owner: "unknown"
+
+  W96:
+    x: 1346
+    y: 2041
+    owner: "unknown"
+
+  W97:
+    x: 1419
+    y: 2090
+    owner: "unknown"
+
+  W98:
+    x: 1469
+    y: 2129
+    owner: "unknown"
+
+  W99:
+    x: 1527
+    y: 2142
+    owner: "unknown"
+
+  W100:
+    x: 1589
+    y: 2146
+    owner: "unknown"
+
+  W101:
+    x: 1534
+    y: 2249
+    owner: "unknown"
+
+  W102:
+    x: 1614
+    y: 2257
+    owner: "unknown"
+
+  W103:
+    x: 1450
+    y: 2329
+    owner: "unknown"
+
+  W104:
+    x: 1518
+    y: 2333
+    owner: "unknown"
+
+  W105:
+    x: 1598
+    y: 2337
+    owner: "unknown"
+
+  W106:
+    x: 1600
+    y: 2438
+    owner: "unknown"
+
+  W107:
+    x: 1673
+    y: 2122
+    owner: "unknown"
+
+  W108:
+    x: 1811
+    y: 2163
+    owner: "unknown"
+
+  W109:
+    x: 1780
+    y: 2295
+    owner: "unknown"
+
+  W110:
+    x: 1907
+    y: 2259
+    owner: "unknown"
+
+  W112:
+    x: 2145
+    y: 2249
+    owner: "unknown"
+
+  W113:
+    x: 2184
+    y: 2118
+    owner: "unknown"
+
+  W114:
+    x: 2241
+    y: 2389
+    owner: "unknown"
+
+  W115:
+    x: 2231
+    y: 2612
+    owner: "unknown"
+
+  # === X (Dungeon/Special) Markers ===
+  X1:
+    x: 3437
+    y: 1921
+    owner: "unknown"
+
+  X2:
+    x: 3500
+    y: 1892
+    owner: "unknown"
+
+  X3:
+    x: 3471
+    y: 1987
+    owner: "unknown"
+
+  X4:
+    x: 3586
+    y: 1842
+    owner: "unknown"
+
+  X5:
+    x: 3615
+    y: 1940
+    owner: "unknown"
+
+  X6:
+    x: 3619
+    y: 2029
+    owner: "unknown"
+
+  X7:
+    x: 3559
+    y: 2101
+    owner: "unknown"
+
+  X8:
+    x: 3502
+    y: 2105
+    owner: "unknown"
+
+  X9:
+    x: 4132
+    y: 2076
+    owner: "unknown"
+
+  X10:
+    x: 4090
+    y: 2317
+    owner: "unknown"
+
+  X11:
+    x: 3954
+    y: 2341
+    owner: "unknown"
+
+  X12:
+    x: 4219
+    y: 2368
+    owner: "unknown"
+
+  X13:
+    x: 4380
+    y: 2420
+    owner: "unknown"
+
+  X14:
+    x: 4379
+    y: 2581
+    owner: "unknown"
+
+  X15:
+    x: 4258
+    y: 2574
+    owner: "unknown"
+
+  X16:
+    x: 4267
+    y: 2691
+    owner: "unknown"
+
+  X17:
+    x: 4391
+    y: 2704
+    owner: "unknown"
+
+  X18:
+    x: 4409
+    y: 2776
+    owner: "unknown"
+
+  X19:
+    x: 4343
+    y: 2855
+    owner: "unknown"
+
+  X20:
+    x: 4237
+    y: 2868
+    owner: "unknown"
+
+  X21:
+    x: 3928
+    y: 2450
+    owner: "unknown"
+
+  X22:
+    x: 3866
+    y: 2589
+    owner: "unknown"
+
+  X23:
+    x: 3806
+    y: 2470
+    owner: "unknown"
+
+  X24:
+    x: 4163
+    y: 2775
+    owner: "unknown"
+
+  X25:
+    x: 3902
+    y: 2718
+    owner: "unknown"
+
+  X26:
+    x: 4039
+    y: 2825
+    owner: "unknown"
+
+  X27:
+    x: 4090
+    y: 2961
+    owner: "unknown"
+
+  X28:
+    x: 4103
+    y: 3097
+    owner: "unknown"
+
+  X29:
+    x: 4264
+    y: 3102
+    owner: "unknown"
+
+  X30:
+    x: 3947
+    y: 2995
+    owner: "unknown"
+
+  X31:
+    x: 3764
+    y: 2876
+    owner: "unknown"
+
+  X32:
+    x: 3769
+    y: 2686
+    owner: "unknown"
+
+  X33:
+    x: 3618
+    y: 2707
+    owner: "unknown"
+
+  X34:
+    x: 3586
+    y: 2735
+    owner: "unknown"
+
+  X35:
+    x: 3611
+    y: 2817
+    owner: "unknown"
+
+  X36:
+    x: 3720
+    y: 2960
+    owner: "unknown"
+
+  X37:
+    x: 3707
+    y: 3139
+    owner: "unknown"
+
+  X38:
+    x: 3762
+    y: 3220
+    owner: "unknown"
+
+  X39:
+    x: 3888
+    y: 3236
+    owner: "unknown"
+
+  X40:
+    x: 3948
+    y: 3217
+    owner: "unknown"
+
+  X41:
+    x: 3947
+    y: 3315
+    owner: "unknown"
+
+  X42:
+    x: 4009
+    y: 3432
+    owner: "unknown"
+
+  X43:
+    x: 3545
+    y: 3154
+    owner: "unknown"
+
+  X44:
+    x: 3561
+    y: 3271
+    owner: "unknown"
+
+  X45:
+    x: 3631
+    y: 3349
+    owner: "unknown"
+
+  X46:
+    x: 3731
+    y: 3381
+    owner: "unknown"
+
+  X47:
+    x: 3752
+    y: 3277
+    owner: "unknown"
+
+  X48:
+    x: 3801
+    y: 3485
+    owner: "unknown"
+
+  X49:
+    x: 3848
+    y: 3622
+    owner: "unknown"
+
+  X50:
+    x: 3605
+    y: 3523
+    owner: "unknown"
+
+  X51:
+    x: 3493
+    y: 3582
+    owner: "unknown"
+
+  X52:
+    x: 3511
+    y: 3394
+    owner: "unknown"
+
+  X53:
+    x: 3533
+    y: 2671
+    owner: "unknown"
+
+  X54:
+    x: 3483
+    y: 2617
+    owner: "unknown"
+
+  X55:
+    x: 3403
+    y: 2609
+    owner: "unknown"
+
+  X56:
+    x: 3339
+    y: 2674
+    owner: "unknown"
+
+  X57:
+    x: 3329
+    y: 2726
+    owner: "unknown"
+
+  X58:
+    x: 3330
+    y: 2802
+    owner: "unknown"
+
+  X59:
+    x: 3437
+    y: 2693
+    owner: "unknown"
+
+  X60:
+    x: 3437
+    y: 2854
+    owner: "unknown"
+
+  X61:
+    x: 3336
+    y: 2867
+    owner: "unknown"
+
+  X62:
+    x: 3286
+    y: 2858
+    owner: "unknown"
+
+  X63:
+    x: 3221
+    y: 3038
+    owner: "unknown"
+
+  X64:
+    x: 3093
+    y: 3083
+    owner: "unknown"
+
+  X65:
+    x: 2984
+    y: 3040
+    owner: "unknown"
+
+  X66:
+    x: 3173
+    y: 3253
+    owner: "unknown"
+
+  X67:
+    x: 3313
+    y: 3124
+    owner: "unknown"
+
+  X68:
+    x: 3359
+    y: 3027
+    owner: "unknown"
+
+  X69:
+    x: 3417
+    y: 3189
+    owner: "unknown"
+
+  X70:
+    x: 3431
+    y: 3351
+    owner: "unknown"
+
+  X71:
+    x: 3395
+    y: 2929
+    owner: "unknown"
+
+  X72:
+    x: 3812
+    y: 2942
+    owner: "unknown"
+
+  X73:
+    x: 4105
+    y: 2665
+    owner: "unknown"
+
+  X74:
+    x: 3869
+    y: 3116
+    owner: "unknown"
+
+  X75:
+    x: 4099
+    y: 3237
+    owner: "unknown"
+
+  # === Landmarks ===
+  1CE Island:
+    x: 426
+    y: 941
+    owner: "unknown"
+    icon: "landmark"
+
+  Arnold:
+    x: 7382
+    y: 1125
+    owner: "unknown"
+    icon: "landmark"
+
+  BB Island:
+    x: 1543
+    y: 3244
+    owner: "unknown"
+    icon: "landmark"
+
+  BRA Island:
+    x: 452
+    y: 1752
+    owner: "unknown"
+    icon: "landmark"
+
+  Burning Lich:
+    x: 7518
+    y: 1312
+    owner: "unknown"
+    icon: "landmark"
+
+  CFC Island:
+    x: 1104
+    y: 296
+    owner: "unknown"
+    icon: "landmark"
+
+  Colony:
+    x: 6745
+    y: 1621
+    owner: "unknown"
+    icon: "landmark"
+
+  CoM Island:
+    x: 403
+    y: 2176
+    owner: "unknown"
+    icon: "landmark"
+
+  DOK Island:
+    x: 2329
+    y: 297
+    owner: "unknown"
+    icon: "landmark"
+
+  DTF Island:
+    x: 4139
+    y: 1444
+    owner: "unknown"
+    icon: "landmark"
+
+  Evil Island:
+    x: 443
+    y: 1219
+    owner: "unknown"
+    icon: "landmark"
+
+  Face Island:
+    x: 917
+    y: 3343
+    owner: "unknown"
+    icon: "landmark"
+
+  FS Island:
+    x: 370
+    y: 314
+    owner: "unknown"
+    icon: "landmark"
+
+  GLC Island:
+    x: 212
+    y: 1657
+    owner: "unknown"
+    icon: "landmark"
+
+  LT Island:
+    x: 3905
+    y: 3840
+    owner: "unknown"
+    icon: "landmark"
+
+  NC Island:
+    x: 4359
+    y: 3101
+    owner: "unknown"
+    icon: "landmark"
+
+  NEW Island:
+    x: 4189
+    y: 1834
+    owner: "unknown"
+    icon: "landmark"
+
+  NKB Island:
+    x: 4308
+    y: 2243
+    owner: "unknown"
+    icon: "landmark"
+
+  NWO Island:
+    x: 2153
+    y: 339
+    owner: "unknown"
+    icon: "landmark"
+
+  PEC Island:
+    x: 2349
+    y: 1574
+    owner: "unknown"
+    icon: "landmark"
+
+  RAQ Island:
+    x: 629
+    y: 1352
+    owner: "unknown"
+    icon: "landmark"
+
+  Rat Island:
+    x: 4029
+    y: 3736
+    owner: "unknown"
+    icon: "landmark"
+
+  SOF Island:
+    x: 3490
+    y: 3734
+    owner: "unknown"
+    icon: "landmark"
+
+  Syn Island:
+    x: 784
+    y: 466
+    owner: "unknown"
+    icon: "landmark"
+
+  Yew Island:
+    x: 2790
+    y: 690
+    owner: "unknown"
+    icon: "landmark"

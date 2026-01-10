@@ -1,0 +1,106 @@
+# Public Dockmasters YAML Format
+# Format: name as key, with x, y, owner attributes
+
+pack_name: "Public DOCKMASTERS"
+revision: 1
+
+dockmasters:
+  PUB-X1:
+    x: 3235
+    y: 190
+    owner: "unknown"
+
+  PUB-X2:
+    x: 4308
+    y: 108
+    owner: "unknown"
+
+  PUB-X3:
+    x: 4057
+    y: 1398
+    owner: "unknown"
+
+  PUB-X4:
+    x: 3388
+    y: 919
+    owner: "unknown"
+
+  PUB1:
+    x: 2183
+    y: 813
+    owner: "unknown"
+
+  PUB2:
+    x: 2264
+    y: 616
+    owner: "unknown"
+
+  PUB3:
+    x: 2017
+    y: 1658
+    owner: "unknown"
+
+  PUB4:
+    x: 2045
+    y: 2208
+    owner: "unknown"
+
+  PUB5:
+    x: 2040
+    y: 2180
+    owner: "unknown"
+
+  PUB6:
+    x: 2002
+    y: 1870
+    owner: "unknown"
+
+  PUB7:
+    x: 3115
+    y: 530
+    owner: "unknown"
+
+  PUB8:
+    x: 2816
+    y: 564
+    owner: "unknown"
+
+  PUB9:
+    x: 2816
+    y: 564
+    owner: "unknown"
+
+  PUB10:
+    x: 1640
+    y: 2564
+    owner: "unknown"
+
+  PUB11:
+    x: 1934
+    y: 3082
+    owner: "unknown"
+
+  PUB12:
+    x: 1945
+    y: 2884
+    owner: "unknown"
+
+  PUB13:
+    x: 650
+    y: 1515
+    owner: "unknown"
+
+  PUB14:
+    x: 689
+    y: 1460
+    owner: "unknown"
+
+  PUB15:
+    x: 1032
+    y: 1156
+    owner: "unknown"
+
+  PUB17:
+    x: 2307
+    y: 462
+    owner: "unknown"
