@@ -8,12 +8,13 @@ houses:
   # Add player house entries here
   # Example:
   #
-  # Piro's Castle:
-  #   x: 1234
-  #   y: 5678
-  #   owner: "Piro"
+   Leo House:
+     x: 329
+     y: 1763
+     owner: "Leo"
   #
   # Guild Hall:
   #   x: 2345
   #   y: 6789
   #   owner: "Guild"
+
