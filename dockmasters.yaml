@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 38
+revision: 39
 dockmasters:
   1A-N:
     x: 1054
@@ -88,7 +88,7 @@ dockmasters:
   2D-N:
     x: 1473
     y: 510
-    owner: unknown
+    owner: Cyric
   2D-S:
     x: 1801
     y: 3183
