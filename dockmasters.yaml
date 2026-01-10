@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 39
+revision: 40
 dockmasters:
   1A-N:
     x: 1054
@@ -100,7 +100,7 @@ dockmasters:
   2E-N:
     x: 1787
     y: 573
-    owner: unknown
+    owner: Karahol
   2F-E:
     x: 4309
     y: 206
