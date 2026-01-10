@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 42
+revision: 43
 dockmasters:
   1A-N:
     x: 1054
@@ -116,7 +116,7 @@ dockmasters:
   3A-N:
     x: 1469
     y: 913
-    owner: unknown
+    owner: Deaddew
   3A-S:
     x: 2065
     y: 3164
