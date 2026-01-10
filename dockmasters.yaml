@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 55
+revision: 56
 dockmasters:
   1A-N:
     x: 1054
@@ -20,7 +20,7 @@ dockmasters:
   1B-S:
     x: 937
     y: 3013
-    owner: unknown
+    owner: Mitch
   1C-E:
     x: 4345
     y: 937
