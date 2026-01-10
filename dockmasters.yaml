@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 33
+revision: 34
 dockmasters:
   1A-N:
     x: 1054
@@ -28,7 +28,7 @@ dockmasters:
   1C-N:
     x: 1223
     y: 656
-    owner: unknown
+    owner: Silenced
   1D-E:
     x: 4336
     y: 796
