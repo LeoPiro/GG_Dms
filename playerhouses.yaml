@@ -1,7 +1,3 @@
 pack_name: Player Houses
-revision: 6
-houses:
-  dhamonick - The Pit House:
-    x: 4372
-    y: 116
-    owner: dhamonick
+revision: 7
+houses: {}
