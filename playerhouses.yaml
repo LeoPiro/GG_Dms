@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 14
+revision: 15
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -13,6 +13,10 @@ houses:
     x: 3568
     y: 2889
     owner: ground_truth
+  zeh_darkrider - Stanleys House:
+    x: 4164
+    y: 2129
+    owner: zeh_darkrider
   oflu1461 - Oflu's House:
     x: 3816
     y: 1841
