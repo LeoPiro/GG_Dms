@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 15
+revision: 16
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -13,6 +13,10 @@ houses:
     x: 3568
     y: 2889
     owner: ground_truth
+  zeh_darkrider - Stanleys DM:
+    x: 840
+    y: 922
+    owner: zeh_darkrider
   zeh_darkrider - Stanleys House:
     x: 4164
     y: 2129
