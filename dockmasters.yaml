@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 34
+revision: 35
 dockmasters:
   1A-N:
     x: 1054
@@ -36,7 +36,7 @@ dockmasters:
   1D-N:
     x: 1219
     y: 688
-    owner: unknown
+    owner: Natryl
   1E-E:
     x: 4339
     y: 700
