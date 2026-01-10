@@ -5,12 +5,8 @@ pack_name: "Player Houses"
 revision: 1
 
 houses:
-  Leo House:
-    x: 329
-    y: 1763
-    owner: "Leo"
-
   Sam Gatehouse:
     x: 340
     y: 1790
     owner: "Sam"
+
