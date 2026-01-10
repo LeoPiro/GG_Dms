@@ -498,7 +498,7 @@ dockmasters:
   The Gym:
     x: 4384
     y: 184
-    owner: "Guild"
+    owner: "Leo"
 
   M1:
     x: 500
@@ -639,4 +639,5 @@ dockmasters:
     x: 4500
     y: 5500
     owner: "unknown"
+
 
