@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 61
+revision: 62
 dockmasters:
   1A-N:
     x: 1054
@@ -513,3 +513,7 @@ dockmasters:
     x: 1299
     y: 453
     owner: Dralcon
+  4B-N:
+    x: 2580
+    y: 390
+    owner: Eviley and Goobler
