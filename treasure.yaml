@@ -5,6 +5,182 @@ pack_name: "Treasure Map Locations"
 revision: 1
 
 markers:
+  # === A Series (Rune Locations) ===
+  A1:
+    x: 830
+    y: 2019
+    owner: "unknown"
+
+  A2:
+    x: 750
+    y: 2028
+    owner: "unknown"
+
+  A3:
+    x: 3782
+    y: 1313
+    owner: "unknown"
+
+  A4:
+    x: 2486
+    y: 1077
+    owner: "unknown"
+
+  A5:
+    x: 2390
+    y: 1018
+    owner: "unknown"
+
+  A6:
+    x: 3746
+    y: 1378
+    owner: "unknown"
+
+  A7:
+    x: 3038
+    y: 3765
+    owner: "unknown"
+
+  A8:
+    x: 2809
+    y: 3607
+    owner: "unknown"
+
+  A9:
+    x: 3816
+    y: 1314
+    owner: "unknown"
+
+  A10:
+    x: 2772
+    y: 3653
+    owner: "unknown"
+
+  A11:
+    x: 3010
+    y: 431
+    owner: "unknown"
+
+  A12:
+    x: 3931
+    y: 71
+    owner: "unknown"
+
+  A13:
+    x: 4043
+    y: 354
+    owner: "unknown"
+
+  A14:
+    x: 4087
+    y: 524
+    owner: "unknown"
+
+  A15:
+    x: 4086
+    y: 436
+    owner: "unknown"
+
+  A16:
+    x: 4086
+    y: 600
+    owner: "unknown"
+
+  A17:
+    x: 4127
+    y: 111
+    owner: "unknown"
+
+  A18:
+    x: 3643
+    y: 1182
+    owner: "unknown"
+
+  A19:
+    x: 3650
+    y: 1399
+    owner: "unknown"
+
+  A20:
+    x: 3462
+    y: 1466
+    owner: "unknown"
+
+  A21:
+    x: 3560
+    y: 1742
+    owner: "unknown"
+
+  A22:
+    x: 2175
+    y: 1208
+    owner: "unknown"
+
+  A23:
+    x: 3623
+    y: 1263
+    owner: "unknown"
+
+  A24:
+    x: 2219
+    y: 1464
+    owner: "unknown"
+
+  A25:
+    x: 1929
+    y: 1471
+    owner: "unknown"
+
+  A26:
+    x: 2028
+    y: 1428
+    owner: "unknown"
+
+  A27:
+    x: 1257
+    y: 2121
+    owner: "unknown"
+
+  A28:
+    x: 1136
+    y: 2098
+    owner: "unknown"
+
+  A29:
+    x: 768
+    y: 1989
+    owner: "unknown"
+
+  A30:
+    x: 1176
+    y: 671
+    owner: "unknown"
+
+  A31:
+    x: 2557
+    y: 3571
+    owner: "unknown"
+
+  A32:
+    x: 2663
+    y: 3551
+    owner: "unknown"
+
+  A33:
+    x: 2702
+    y: 3637
+    owner: "unknown"
+
+  A34:
+    x: 2962
+    y: 3707
+    owner: "unknown"
+
+  A35:
+    x: 605
+    y: 1135
+    owner: "unknown"
+
   # === CC (Center) Markers ===
   CC1:
     x: 838
