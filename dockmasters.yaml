@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 63
+revision: 64
 dockmasters:
   1A-N:
     x: 1054
@@ -521,3 +521,7 @@ dockmasters:
     x: 4334
     y: 2355
     owner: Dralcon
+  6G-E:
+    x: 3966
+    y: 1454
+    owner: Blastro
