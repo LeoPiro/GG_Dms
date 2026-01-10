@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 37
+revision: 38
 dockmasters:
   1A-N:
     x: 1054
@@ -80,7 +80,7 @@ dockmasters:
   2C-N:
     x: 1456
     y: 533
-    owner: unknown
+    owner: LNI Claim
   2C-W:
     x: 656
     y: 603
