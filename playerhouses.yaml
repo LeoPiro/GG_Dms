@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 13
+revision: 14
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -17,6 +17,10 @@ houses:
     x: 3816
     y: 1841
     owner: oflu1461
+  corbinm3 - Tower Bloodrockk:
+    x: 3266
+    y: 439
+    owner: corbinm3
   defiant1348 - DH House of Dragons:
     x: 3738
     y: 248
