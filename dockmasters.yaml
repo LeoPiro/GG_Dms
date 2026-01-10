@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 48
+revision: 49
 dockmasters:
   1A-N:
     x: 1054
@@ -204,7 +204,7 @@ dockmasters:
   6B-N:
     x: 3653
     y: 91
-    owner: unknown
+    owner: Nachius
   6B-S:
     x: 2756
     y: 3594
