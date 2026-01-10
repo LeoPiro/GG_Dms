@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 53
+revision: 54
 dockmasters:
   1A-N:
     x: 1054
@@ -240,7 +240,7 @@ dockmasters:
   6E-E:
     x: 3820
     y: 1911
-    owner: unknown
+    owner: Lucy - Vendor House
   6F-E:
     x: 4031
     y: 1489
