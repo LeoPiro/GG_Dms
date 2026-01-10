@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 21
+revision: 22
 dockmasters:
   1A-N:
     x: 1054
@@ -352,7 +352,7 @@ dockmasters:
   XD11:
     x: 3393
     y: 3356
-    owner: unknown
+    owner: Rasteel
   XD12:
     x: 3043
     y: 3150
