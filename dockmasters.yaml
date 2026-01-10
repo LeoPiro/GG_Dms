@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 40
+revision: 41
 dockmasters:
   1A-N:
     x: 1054
@@ -108,7 +108,7 @@ dockmasters:
   2F-N:
     x: 1872
     y: 548
-    owner: unknown
+    owner: m4stic
   2G-N:
     x: 2078
     y: 442
