@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 59
+revision: 60
 dockmasters:
   1A-N:
     x: 1054
@@ -208,7 +208,7 @@ dockmasters:
   6B-S:
     x: 2756
     y: 3594
-    owner: unknown
+    owner: Nimiak
   6B-W:
     x: 872
     y: 1303
