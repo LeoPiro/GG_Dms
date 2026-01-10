@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 24
+revision: 25
 dockmasters:
   1A-N:
     x: 1054
@@ -364,7 +364,7 @@ dockmasters:
   XD14:
     x: 3368
     y: 2789
-    owner: unknown
+    owner: Cmenot
   XD15:
     x: 4123
     y: 3280
