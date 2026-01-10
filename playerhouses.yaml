@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 16
+revision: 17
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -9,6 +9,10 @@ houses:
     x: 1420
     y: 2627
     owner: frozenether
+  kur2k - Elvenbane's House:
+    x: 4247
+    y: 841
+    owner: kur2k
   ground_truth - Main House:
     x: 3568
     y: 2889
