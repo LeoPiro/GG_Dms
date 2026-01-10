@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 41
+revision: 42
 dockmasters:
   1A-N:
     x: 1054
@@ -112,7 +112,7 @@ dockmasters:
   2G-N:
     x: 2078
     y: 442
-    owner: unknown
+    owner: Gobbler
   3A-N:
     x: 1469
     y: 913
