@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 23
+revision: 24
 dockmasters:
   1A-N:
     x: 1054
@@ -360,7 +360,7 @@ dockmasters:
   XD13:
     x: 3190
     y: 2935
-    owner: unknown
+    owner: Circles
   XD14:
     x: 3368
     y: 2789
