@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 52
+revision: 53
 dockmasters:
   1A-N:
     x: 1054
@@ -196,7 +196,7 @@ dockmasters:
   6A-E:
     x: 3634
     y: 1634
-    owner: unknown
+    owner: Maxwell
   6A-S:
     x: 2607
     y: 3546
