@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 26
+revision: 27
 dockmasters:
   1A-N:
     x: 1054
@@ -368,7 +368,7 @@ dockmasters:
   XD15:
     x: 4123
     y: 3280
-    owner: Lulu
+    owner: Lulu Muppet
   XP1:
     x: 4500
     y: 2553
