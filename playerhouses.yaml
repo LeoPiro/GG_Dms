@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 17
+revision: 18
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -13,6 +13,10 @@ houses:
     x: 4247
     y: 841
     owner: kur2k
+  dport123 - D-port's Tower of Love:
+    x: 1636
+    y: 779
+    owner: dport123
   ground_truth - Main House:
     x: 3568
     y: 2889
