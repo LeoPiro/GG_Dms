@@ -1,643 +1,511 @@
-# GG Dockmasters YAML Format
-# Format: name as key, with x, y, owner attributes
-
-pack_name: "GG DOCKMASTERS"
-revision: 1
-
+pack_name: GG DOCKMASTERS
+revision: 2
 dockmasters:
   1A-N:
     x: 1054
     y: 329
-    owner: "unknown"
-
+    owner: unknown
   1A-S:
     x: 746
     y: 3263
-    owner: "unknown"
-
+    owner: unknown
   1B-E:
     x: 3920
     y: 1292
-    owner: "unknown"
-
+    owner: unknown
   1B-N:
     x: 1204
     y: 635
-    owner: "unknown"
-
+    owner: unknown
   1B-S:
     x: 937
     y: 3013
-    owner: "unknown"
-
+    owner: unknown
   1C-E:
     x: 4345
     y: 937
-    owner: "unknown"
-
+    owner: unknown
   1C-N:
     x: 1223
     y: 656
-    owner: "unknown"
-
+    owner: unknown
   1D-E:
     x: 4336
     y: 796
-    owner: "unknown"
-
+    owner: unknown
   1D-N:
     x: 1219
     y: 688
-    owner: "unknown"
-
+    owner: unknown
   1E-E:
     x: 4339
     y: 700
-    owner: "unknown"
-
+    owner: unknown
   1F-E:
     x: 4312
     y: 547
-    owner: "unknown"
-
+    owner: unknown
   1G-E:
     x: 4356
     y: 718
-    owner: "unknown"
-
+    owner: unknown
   2A-E:
     x: 3871
     y: 670
-    owner: "unknown"
-
+    owner: unknown
   2A-N:
     x: 1750
     y: 527
-    owner: "unknown"
-
+    owner: unknown
   2A-W:
     x: 1043
     y: 590
-    owner: "unknown"
-
+    owner: unknown
   2B-E:
     x: 3947
     y: 1300
-    owner: "unknown"
-
+    owner: unknown
   2B-N:
     x: 1359
     y: 443
-    owner: "unknown"
-
+    owner: unknown
   2B-S:
     x: 1326
     y: 3050
-    owner: "unknown"
-
+    owner: unknown
   2B-W:
     x: 1052
     y: 612
-    owner: "unknown"
-
+    owner: unknown
   2C-N:
     x: 1456
     y: 533
-    owner: "unknown"
-
+    owner: unknown
   2C-W:
     x: 656
     y: 603
-    owner: "unknown"
-
+    owner: unknown
   2D-N:
     x: 1473
     y: 510
-    owner: "unknown"
-
+    owner: unknown
   2D-S:
     x: 1801
     y: 3183
-    owner: "unknown"
-
+    owner: unknown
   2D-W:
     x: 840
     y: 921
-    owner: "unknown"
-
+    owner: unknown
   2E-N:
     x: 1787
     y: 573
-    owner: "unknown"
-
+    owner: unknown
   2F-E:
     x: 4309
     y: 206
-    owner: "unknown"
-
+    owner: unknown
   2F-N:
     x: 1872
     y: 548
-    owner: "unknown"
-
+    owner: unknown
   2G-N:
     x: 2078
     y: 442
-    owner: "unknown"
-
+    owner: unknown
   3A-N:
     x: 1469
     y: 913
-    owner: "unknown"
-
+    owner: unknown
   3A-S:
     x: 2065
     y: 3164
-    owner: "unknown"
-
+    owner: unknown
   3A-W:
     x: 455
     y: 822
-    owner: "unknown"
-
+    owner: unknown
   3B-N:
     x: 1392
     y: 791
-    owner: "unknown"
-
+    owner: unknown
   3B-S:
     x: 2264
     y: 3264
-    owner: "unknown"
-
+    owner: unknown
   3C-S:
     x: 2440
     y: 3343
-    owner: "unknown"
-
+    owner: unknown
   4A-E:
     x: 3719
     y: 1369
-    owner: "unknown"
-
+    owner: unknown
   4A-N:
     x: 2552
     y: 458
-    owner: "unknown"
-
+    owner: unknown
   4A-S:
     x: 2415
     y: 3128
-    owner: "unknown"
-
+    owner: unknown
   4B-E:
     x: 3615
     y: 1385
-    owner: "unknown"
-
+    owner: unknown
   4B-S:
     x: 2427
     y: 3032
-    owner: "unknown"
-
+    owner: unknown
   4B-W:
     x: 467
     y: 1089
-    owner: "unknown"
-
+    owner: unknown
   4C-N:
     x: 2647
     y: 362
-    owner: "unknown"
-
+    owner: unknown
   4E-N:
     x: 2619
     y: 766
-    owner: "unknown"
-
+    owner: unknown
   5A-N:
     x: 3064
     y: 424
-    owner: "unknown"
-
+    owner: unknown
   5A-S:
     x: 2868
     y: 3497
-    owner: "unknown"
-
+    owner: unknown
   5B-S:
     x: 2870
     y: 3517
-    owner: "unknown"
-
+    owner: unknown
   5C-S:
     x: 2747
     y: 3289
-    owner: "unknown"
-
+    owner: unknown
   5E-E:
     x: 3535
     y: 1488
-    owner: "unknown"
-
+    owner: unknown
   5F-E:
     x: 3645
     y: 1559
-    owner: "unknown"
-
+    owner: unknown
   6A-E:
     x: 3634
     y: 1634
-    owner: "unknown"
-
+    owner: unknown
   6A-S:
     x: 2607
     y: 3546
-    owner: "unknown"
-
+    owner: unknown
   6B-N:
     x: 3653
     y: 91
-    owner: "unknown"
-
+    owner: unknown
   6B-S:
     x: 2756
     y: 3594
-    owner: "unknown"
-
+    owner: unknown
   6B-W:
     x: 872
     y: 1303
-    owner: "unknown"
-
+    owner: unknown
   6C-N:
     x: 3779
     y: 58
-    owner: "unknown"
-
+    owner: unknown
   6C-S:
     x: 3020
     y: 3666
-    owner: "unknown"
-
+    owner: unknown
   6C-W:
     x: 775
     y: 1187
-    owner: "unknown"
-
+    owner: unknown
   6D-E:
     x: 3787
     y: 1885
-    owner: "unknown"
-
+    owner: unknown
   6D-N:
     x: 4075
     y: 44
-    owner: "unknown"
-
+    owner: unknown
   6D-W:
     x: 853
     y: 1132
-    owner: "unknown"
-
+    owner: unknown
   6E-E:
     x: 3820
     y: 1911
-    owner: "unknown"
-
+    owner: unknown
   6F-E:
     x: 4031
     y: 1489
-    owner: "unknown"
-
+    owner: unknown
   7A-S:
     x: 3299
     y: 3600
-    owner: "unknown"
-
+    owner: unknown
   7A-W:
     x: 354
     y: 1744
-    owner: "unknown"
-
+    owner: unknown
   7B-S:
     x: 3285
     y: 3554
-    owner: "unknown"
-
+    owner: unknown
   7B-W:
     x: 843
     y: 1804
-    owner: "unknown"
-
+    owner: unknown
   7C-W:
     x: 933
     y: 2266
-    owner: "unknown"
-
+    owner: unknown
   7D-W:
     x: 1132
     y: 2541
-    owner: "unknown"
-
+    owner: unknown
   7F-W:
     x: 722
     y: 1864
-    owner: "unknown"
-
+    owner: unknown
   8A-S:
     x: 3428
     y: 3812
-    owner: "unknown"
-
+    owner: unknown
   8A-W:
     x: 2292
     y: 2570
-    owner: "unknown"
-
+    owner: unknown
   8B-W:
     x: 2290
     y: 2423
-    owner: "unknown"
-
+    owner: unknown
   8C-W:
     x: 2230
     y: 2163
-    owner: "unknown"
-
+    owner: unknown
   8D-W:
     x: 2030
     y: 2029
-    owner: "unknown"
-
+    owner: unknown
   8E-W:
     x: 2043
     y: 1753
-    owner: "unknown"
-
+    owner: unknown
   9A-W:
     x: 2280
     y: 1527
-    owner: "unknown"
-
+    owner: unknown
   9B-W:
     x: 2175
     y: 1457
-    owner: "unknown"
-
+    owner: unknown
   9C-W:
     x: 2283
     y: 1482
-    owner: "unknown"
-
+    owner: unknown
   10A-W:
     x: 2183
     y: 985
-    owner: "unknown"
-
+    owner: unknown
   11A-W:
     x: 2192
     y: 1102
-    owner: "unknown"
-
+    owner: unknown
   13A-W:
     x: 2343
     y: 969
-    owner: "unknown"
-
+    owner: unknown
   XD1:
     x: 3610
     y: 1961
-    owner: "unknown"
-
+    owner: unknown
   XD2:
     x: 4228
     y: 2287
-    owner: "unknown"
-
+    owner: unknown
   XD3:
     x: 4386
     y: 2879
-    owner: "unknown"
-
+    owner: unknown
   XD4:
     x: 4472
     y: 2735
-    owner: "unknown"
-
+    owner: unknown
   XD7:
     x: 3413
     y: 3572
-    owner: "unknown"
-
+    owner: unknown
   XD8:
     x: 3666
     y: 2572
-    owner: "unknown"
-
+    owner: unknown
   XD10:
     x: 4145
     y: 3250
-    owner: "unknown"
-
+    owner: unknown
   XD11:
     x: 3393
     y: 3356
-    owner: "unknown"
-
+    owner: unknown
   XD12:
     x: 3043
     y: 3150
-    owner: "unknown"
-
+    owner: unknown
   XD13:
     x: 3190
     y: 2935
-    owner: "unknown"
-
+    owner: unknown
   XD14:
     x: 3368
     y: 2789
-    owner: "unknown"
-
+    owner: unknown
   XD15:
     x: 4123
     y: 3280
-    owner: "unknown"
-
+    owner: unknown
   XP1:
     x: 4500
     y: 2553
-    owner: "unknown"
-
+    owner: unknown
   XP2:
     x: 4427
     y: 2850
-    owner: "unknown"
-
+    owner: unknown
   XP3:
     x: 3846
     y: 3726
-    owner: "unknown"
-
+    owner: unknown
   XP4:
     x: 3561
     y: 1994
-    owner: "unknown"
-
+    owner: unknown
   GG-Shelter:
     x: 1655
     y: 2667
-    owner: "Guild"
-
+    owner: Guild
   GH:
     x: 4384
     y: 6142
-    owner: "Guild"
-
+    owner: Guild
   The Gym:
     x: 4384
     y: 184
-    owner: "Leo"
-
+    owner: Leo
   M1:
     x: 500
     y: 300
-    owner: "unknown"
-
+    owner: unknown
   M2:
     x: 1500
     y: 300
-    owner: "unknown"
-
+    owner: unknown
   M3:
     x: 2500
     y: 150
-    owner: "unknown"
-
+    owner: unknown
   M4:
     x: 3500
     y: 100
-    owner: "unknown"
-
+    owner: unknown
   M5:
     x: 4500
     y: 500
-    owner: "unknown"
-
+    owner: unknown
   M6:
     x: 300
     y: 1500
-    owner: "unknown"
-
+    owner: unknown
   M8:
     x: 2600
     y: 1500
-    owner: "unknown"
-
+    owner: unknown
   M9:
     x: 3300
     y: 1500
-    owner: "unknown"
-
+    owner: unknown
   M10:
     x: 4500
     y: 1500
-    owner: "unknown"
-
+    owner: unknown
   M11:
     x: 500
     y: 2500
-    owner: "unknown"
-
+    owner: unknown
   M13:
     x: 2500
     y: 2500
-    owner: "unknown"
-
+    owner: unknown
   M14:
     x: 3500
     y: 2350
-    owner: "unknown"
-
+    owner: unknown
   M15:
     x: 4600
     y: 2200
-    owner: "unknown"
-
+    owner: unknown
   M16:
     x: 500
     y: 3500
-    owner: "unknown"
-
+    owner: unknown
   M17:
     x: 1500
     y: 3500
-    owner: "unknown"
-
+    owner: unknown
   M18:
     x: 2500
     y: 3700
-    owner: "unknown"
-
+    owner: unknown
   M19:
     x: 3650
     y: 3800
-    owner: "unknown"
-
+    owner: unknown
   M20:
     x: 4500
     y: 3500
-    owner: "unknown"
-
+    owner: unknown
   M21:
     x: 500
     y: 4500
-    owner: "unknown"
-
+    owner: unknown
   M22:
     x: 1500
     y: 4500
-    owner: "unknown"
-
+    owner: unknown
   M23:
     x: 2500
     y: 4500
-    owner: "unknown"
-
+    owner: unknown
   M24:
     x: 3500
     y: 4500
-    owner: "unknown"
-
+    owner: unknown
   M25:
     x: 4500
     y: 4500
-    owner: "unknown"
-
+    owner: unknown
   M26:
     x: 500
     y: 5500
-    owner: "unknown"
-
+    owner: unknown
   M27:
     x: 1500
     y: 5500
-    owner: "unknown"
-
+    owner: unknown
   M28:
     x: 2500
     y: 5500
-    owner: "unknown"
-
+    owner: unknown
   M29:
     x: 3500
     y: 5500
-    owner: "unknown"
-
+    owner: unknown
   M30:
     x: 4500
     y: 5500
-    owner: "unknown"
-
-
+    owner: unknown
