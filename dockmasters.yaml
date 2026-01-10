@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 29
+revision: 30
 dockmasters:
   1A-N:
     x: 1054
@@ -380,7 +380,7 @@ dockmasters:
   XP3:
     x: 3846
     y: 3726
-    owner: unknown
+    owner: Public
   XP4:
     x: 3561
     y: 1994
