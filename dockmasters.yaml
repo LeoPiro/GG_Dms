@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 51
+revision: 52
 dockmasters:
   1A-N:
     x: 1054
@@ -509,3 +509,7 @@ dockmasters:
     x: 4500
     y: 5500
     owner: unknown
+  1E-N:
+    x: 1299
+    y: 453
+    owner: Dralcon
