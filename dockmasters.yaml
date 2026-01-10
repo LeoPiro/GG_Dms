@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 14
+revision: 15
 dockmasters:
   1A-N:
     x: 1054
@@ -372,7 +372,7 @@ dockmasters:
   XP1:
     x: 4500
     y: 2553
-    owner: Finn MacCool
+    owner: Public
   XP2:
     x: 4427
     y: 2850
