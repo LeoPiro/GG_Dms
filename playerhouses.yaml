@@ -1,7 +1,11 @@
 pack_name: Player Houses
-revision: 2
+revision: 3
 houses:
   ileo_games - Leos Nusero House:
     x: 4368
     y: 172
     owner: ileo_games
+  dhamonick - The Pit House:
+    x: 4372
+    y: 116
+    owner: dhamonick
