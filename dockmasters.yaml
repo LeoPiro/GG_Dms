@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 50
+revision: 51
 dockmasters:
   1A-N:
     x: 1054
@@ -232,7 +232,7 @@ dockmasters:
   6D-N:
     x: 4075
     y: 44
-    owner: unknown
+    owner: ShotsFired
   6D-W:
     x: 853
     y: 1132
