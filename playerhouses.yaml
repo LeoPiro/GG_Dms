@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 18
+revision: 19
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -29,6 +29,10 @@ houses:
     x: 4164
     y: 2129
     owner: zeh_darkrider
+  ultima_online - Veramocor's House:
+    x: 3305
+    y: 3087
+    owner: ultima_online
   oflu1461 - Oflu's House:
     x: 3816
     y: 1841
