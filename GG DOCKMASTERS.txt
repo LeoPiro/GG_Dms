@@ -4,6 +4,7 @@
 2A-E	3871	670	7	true
 2B-N	1359	443	7	true
 2B-W	1052	612	7	true
+2E-W	733	543	7	true
 6D-W	853	1132	7	true
 XD1	3610	1961	7	true
 XD15	4123	3280	7	true
