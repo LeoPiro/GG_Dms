@@ -1,10 +1,14 @@
 pack_name: Player Houses
-revision: 9
+revision: 10
 houses:
   ileo_games - Leo Nusero House:
     x: 329
     y: 1763
     owner: ileo_games
+  frozenether - House:
+    x: 1420
+    y: 2627
+    owner: frozenether
   oflu1461 - Oflu's House:
     x: 3816
     y: 1841
