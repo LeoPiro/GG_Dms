@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 5
+revision: 6
 dockmasters:
   1A-N:
     x: 1054
@@ -132,7 +132,7 @@ dockmasters:
   3B-S:
     x: 2264
     y: 3264
-    owner: Dhamon
+    owner: Sargonas
   3C-S:
     x: 2440
     y: 3343
