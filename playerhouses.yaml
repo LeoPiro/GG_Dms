@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 12
+revision: 13
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -21,3 +21,7 @@ houses:
     x: 3738
     y: 248
     owner: defiant1348
+  xdragosx - Main House:
+    x: 4060
+    y: 1743
+    owner: xdragosx
