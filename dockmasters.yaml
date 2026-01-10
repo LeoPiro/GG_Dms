@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 19
+revision: 20
 dockmasters:
   1A-N:
     x: 1054
@@ -344,7 +344,7 @@ dockmasters:
   XD8:
     x: 3666
     y: 2572
-    owner: unknown
+    owner: m4stic
   XD10:
     x: 4145
     y: 3250
