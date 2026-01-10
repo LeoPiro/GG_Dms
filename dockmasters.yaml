@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 22
+revision: 23
 dockmasters:
   1A-N:
     x: 1054
@@ -356,7 +356,7 @@ dockmasters:
   XD12:
     x: 3043
     y: 3150
-    owner: unknown
+    owner: Vlad
   XD13:
     x: 3190
     y: 2935
