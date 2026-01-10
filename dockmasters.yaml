@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 60
+revision: 61
 dockmasters:
   1A-N:
     x: 1054
@@ -276,7 +276,7 @@ dockmasters:
   8A-S:
     x: 3428
     y: 3812
-    owner: unknown
+    owner: Puggles
   8A-W:
     x: 2292
     y: 2570
