@@ -12,9 +12,14 @@ houses:
      x: 329
      y: 1763
      owner: "Leo"
+  Sam Gatehouse:
+     x: 340
+     y: 1790
+     owner: "Sam"
   #
   # Guild Hall:
   #   x: 2345
   #   y: 6789
   #   owner: "Guild"
+
 
