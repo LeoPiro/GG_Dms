@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 43
+revision: 44
 dockmasters:
   1A-N:
     x: 1054
@@ -128,7 +128,7 @@ dockmasters:
   3B-N:
     x: 1392
     y: 791
-    owner: unknown
+    owner: Arnakk
   3B-S:
     x: 2264
     y: 3264
