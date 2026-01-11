@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 26
+revision: 27
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -77,3 +77,7 @@ houses:
     x: 3660
     y: 3509
     owner: stemcell77
+  anakin0351 - Main Fortress:
+    x: 4052
+    y: 3420
+    owner: anakin0351
