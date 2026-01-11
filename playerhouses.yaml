@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 21
+revision: 22
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -54,6 +54,10 @@ houses:
     y: 1743
     owner: xdragosx
   tugberkozpir - Norse Small House:
+    x: 1265
+    y: 1244
+    owner: tugberkozpir
+  tugberkozpir - Suriyeli House:
     x: 1265
     y: 1244
     owner: tugberkozpir
