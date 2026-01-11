@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 25
+revision: 26
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -44,6 +44,10 @@ houses:
   xavi017 - Island:
     x: 2602
     y: 3532
+    owner: xavi017
+  xavi017 - Prev House:
+    x: 1661
+    y: 1227
     owner: xavi017
   corbinm3 - Tower Bloodrockk:
     x: 3266
