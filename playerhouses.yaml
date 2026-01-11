@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 23
+revision: 24
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -65,3 +65,7 @@ houses:
     x: 1265
     y: 1244
     owner: tugberkozpir
+  stemcell77 - Stemcell's House:
+    x: 3660
+    y: 3509
+    owner: stemcell77
