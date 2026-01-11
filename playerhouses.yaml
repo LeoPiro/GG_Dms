@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 29
+revision: 30
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -21,6 +21,10 @@ houses:
     x: 2265
     y: 3270
     owner: dhamonick
+  .protesilaos - Andaria Mining House:
+    x: 2585
+    y: 688
+    owner: .protesilaos
   ground_truth - Main House:
     x: 3568
     y: 2889
