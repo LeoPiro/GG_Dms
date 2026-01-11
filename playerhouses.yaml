@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 22
+revision: 23
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -17,6 +17,10 @@ houses:
     x: 1636
     y: 779
     owner: dport123
+  dhamonick - Beach Villa:
+    x: 2265
+    y: 3270
+    owner: dhamonick
   ground_truth - Main House:
     x: 3568
     y: 2889
