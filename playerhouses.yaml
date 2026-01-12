@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 36
+revision: 37
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -9,6 +9,10 @@ houses:
     x: 2585
     y: 688
     owner: .protesilaos
+  a wild crab - Andarian Redoubt:
+    x: 3646
+    y: 700
+    owner: a wild crab
   dhamonick - Beach Villa:
     x: 2265
     y: 3270
