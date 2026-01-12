@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 31
+revision: 32
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -65,6 +65,10 @@ houses:
     x: 1360
     y: 967
     owner: jettomato
+  nelss7 - chikin house:
+    x: 4184
+    y: 2625
+    owner: nelss7
   defiant1348 - DH House of Dragons:
     x: 3738
     y: 248
