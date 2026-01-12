@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 30
+revision: 31
 houses:
   ileo_games - Leo Nusero House:
     x: 329
@@ -21,6 +21,10 @@ houses:
     x: 2265
     y: 3270
     owner: dhamonick
+  .v4nt4bl4ck - VANTABLACK-GAMMAKNIFE:
+    x: 3971
+    y: 3166
+    owner: .v4nt4bl4ck
   .protesilaos - Andaria Mining House:
     x: 2585
     y: 688
