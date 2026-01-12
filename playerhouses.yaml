@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 33
+revision: 34
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -41,6 +41,10 @@ houses:
     x: 1360
     y: 967
     owner: jettomato
+  lucasnovelli - Junkrat Dock:
+    x: 4148
+    y: 3249
+    owner: lucasnovelli
   ileo_games - Leo Nusero House:
     x: 329
     y: 1763
