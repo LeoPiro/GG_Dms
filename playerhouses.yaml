@@ -1,78 +1,54 @@
 pack_name: Player Houses
-revision: 32
+revision: 33
 houses:
-  ileo_games - Leo Nusero House:
-    x: 329
-    y: 1763
-    owner: ileo_games
-  frozenether - House:
-    x: 1420
-    y: 2627
-    owner: frozenether
-  kur2k - Elvenbane's House:
-    x: 4247
-    y: 841
-    owner: kur2k
-  dport123 - D-port's Tower of Love:
-    x: 1636
-    y: 779
-    owner: dport123
-  dhamonick - Beach Villa:
-    x: 2265
-    y: 3270
-    owner: dhamonick
-  .v4nt4bl4ck - VANTABLACK-GAMMAKNIFE:
-    x: 3971
-    y: 3166
-    owner: .v4nt4bl4ck
+  ponz / sir harris - 4 Demon Wagon:
+    x: 850
+    y: 3032
+    owner: ponz / sir harris
   .protesilaos - Andaria Mining House:
     x: 2585
     y: 688
     owner: .protesilaos
-  ground_truth - Main House:
-    x: 3568
-    y: 2889
-    owner: ground_truth
-  zeh_darkrider - Stanleys DM:
-    x: 840
-    y: 922
-    owner: zeh_darkrider
-  zeh_darkrider - Stanleys House:
-    x: 4164
-    y: 2129
-    owner: zeh_darkrider
-  ultima_online - Veramocor's House:
-    x: 3305
-    y: 3087
-    owner: ultima_online
-  oflu1461 - Oflu's House:
-    x: 3816
-    y: 1841
-    owner: oflu1461
-  xavi017 - Island:
-    x: 2602
-    y: 3532
-    owner: xavi017
-  xavi017 - Prev House:
-    x: 1661
-    y: 1227
-    owner: xavi017
-  corbinm3 - Tower Bloodrockk:
-    x: 3266
-    y: 439
-    owner: corbinm3
-  jettomato - JetTomato:
-    x: 1360
-    y: 967
-    owner: jettomato
-  nelss7 - chikin house:
-    x: 4184
-    y: 2625
-    owner: nelss7
+  dhamonick - Beach Villa:
+    x: 2265
+    y: 3270
+    owner: dhamonick
+  dport123 - D-port's Tower of Love:
+    x: 1636
+    y: 779
+    owner: dport123
   defiant1348 - DH House of Dragons:
     x: 3738
     y: 248
     owner: defiant1348
+  kur2k - Elvenbane's House:
+    x: 4247
+    y: 841
+    owner: kur2k
+  anakin0351 - FORTRESS:
+    x: 4070
+    y: 3436
+    owner: anakin0351
+  frozenether - House:
+    x: 1420
+    y: 2627
+    owner: frozenether
+  xavi017 - Island:
+    x: 2602
+    y: 3532
+    owner: xavi017
+  jettomato - JetTomato:
+    x: 1360
+    y: 967
+    owner: jettomato
+  ileo_games - Leo Nusero House:
+    x: 329
+    y: 1763
+    owner: ileo_games
+  ground_truth - Main House:
+    x: 3568
+    y: 2889
+    owner: ground_truth
   xdragosx - Main House:
     x: 4060
     y: 1743
@@ -81,15 +57,43 @@ houses:
     x: 1265
     y: 1244
     owner: tugberkozpir
-  tugberkozpir - Suriyeli House:
-    x: 1265
-    y: 1244
-    owner: tugberkozpir
+  oflu1461 - Oflu's House:
+    x: 3816
+    y: 1841
+    owner: oflu1461
+  xavi017 - Prev House:
+    x: 1661
+    y: 1227
+    owner: xavi017
+  zeh_darkrider - Stanleys DM:
+    x: 840
+    y: 922
+    owner: zeh_darkrider
+  zeh_darkrider - Stanleys House:
+    x: 4164
+    y: 2129
+    owner: zeh_darkrider
   stemcell77 - Stemcell's House:
     x: 3660
     y: 3509
     owner: stemcell77
-  anakin0351 - FORTRESS:
-    x: 4070
-    y: 3436
-    owner: anakin0351
+  tugberkozpir - Suriyeli House:
+    x: 1265
+    y: 1244
+    owner: tugberkozpir
+  corbinm3 - Tower Bloodrockk:
+    x: 3266
+    y: 439
+    owner: corbinm3
+  .v4nt4bl4ck - VANTABLACK-GAMMAKNIFE:
+    x: 3971
+    y: 3166
+    owner: .v4nt4bl4ck
+  ultima_online - Veramocor's House:
+    x: 3305
+    y: 3087
+    owner: ultima_online
+  nelss7 - chikin house:
+    x: 4184
+    y: 2625
+    owner: nelss7
