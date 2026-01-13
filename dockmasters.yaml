@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 67
+revision: 68
 dockmasters:
   1A-N:
     x: 1054
@@ -525,3 +525,7 @@ dockmasters:
     x: 3966
     y: 1454
     owner: Blastro
+  XD16:
+    x: 4073
+    y: 3434
+    owner: Anakin
