@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 39
+revision: 40
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -73,6 +73,10 @@ houses:
     x: 1661
     y: 1227
     owner: xavi017
+  Immortil Bro - Pyre House:
+    x: 1343
+    y: 1723
+    owner: Immortil Bro
   zeh_darkrider - Stanleys DM:
     x: 840
     y: 922
@@ -101,6 +105,10 @@ houses:
     x: 3305
     y: 3087
     owner: ultima_online
+  Tugberk - Villa with Tower:
+    x: 3616
+    y: 468
+    owner: Tugberk
   nelss7 - chikin house:
     x: 4184
     y: 2625
