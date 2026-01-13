@@ -1,10 +1,14 @@
 pack_name: Player Houses
-revision: 40
+revision: 41
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
     y: 3032
     owner: ponz / sir harris
+  krzygoat - An unamed house:
+    x: 2765
+    y: 3428
+    owner: krzygoat
   .protesilaos - Andaria Mining House:
     x: 2585
     y: 688
