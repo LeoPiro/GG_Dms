@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 45
+revision: 46
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -109,6 +109,10 @@ houses:
     x: 3971
     y: 3166
     owner: .v4nt4bl4ck
+  bigbooze. - Vandy's House:
+    x: 3849
+    y: 1844
+    owner: bigbooze.
   ultima_online - Veramocor's House:
     x: 3305
     y: 3087
@@ -117,6 +121,10 @@ houses:
     x: 3616
     y: 468
     owner: Tugberk
+  zzaaaakk - Zaak's House:
+    x: 1139
+    y: 2555
+    owner: zzaaaakk
   zzaaaakk - Zaak's Wagon:
     x: 771
     y: 1184
