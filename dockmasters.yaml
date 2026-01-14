@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 68
+revision: 69
 dockmasters:
   1A-N:
     x: 1054
@@ -268,7 +268,7 @@ dockmasters:
   7D-W:
     x: 1132
     y: 2541
-    owner: unknown
+    owner: Zaak
   7F-W:
     x: 722
     y: 1864
