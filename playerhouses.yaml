@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 41
+revision: 42
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -113,6 +113,10 @@ houses:
     x: 3616
     y: 468
     owner: Tugberk
+  zzaaaakk - Zaak's House:
+    x: 1139
+    y: 2555
+    owner: zzaaaakk
   nelss7 - chikin house:
     x: 4184
     y: 2625
