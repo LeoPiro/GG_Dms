@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 71
+revision: 72
 dockmasters:
   1A-N:
     x: 1054
@@ -529,3 +529,7 @@ dockmasters:
     x: 4073
     y: 3434
     owner: Anakin
+  12A-W:
+    x: 2323
+    y: 990
+    owner: Finn
