@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 43
+revision: 44
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -37,6 +37,10 @@ houses:
     x: 4070
     y: 3436
     owner: anakin0351
+  Zaak - Greystone Manor:
+    x: 1139
+    y: 2555
+    owner: Zaak
   frozenether - House:
     x: 1420
     y: 2627
