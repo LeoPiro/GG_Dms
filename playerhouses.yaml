@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 46
+revision: 47
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -29,6 +29,10 @@ houses:
     x: 3738
     y: 248
     owner: defiant1348
+  alaric7548 - Dockmaster House:
+    x: 3617
+    y: 1384
+    owner: alaric7548
   kur2k - Elvenbane's House:
     x: 4247
     y: 841
