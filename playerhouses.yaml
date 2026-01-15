@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 49
+revision: 50
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -133,6 +133,10 @@ houses:
     x: 3616
     y: 468
     owner: Tugberk
+  volto_ - W50 Vendor Van:
+    x: 2163
+    y: 1141
+    owner: volto_
   zzaaaakk - Zaak's House:
     x: 1139
     y: 2555
