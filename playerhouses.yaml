@@ -1,10 +1,14 @@
 pack_name: Player Houses
-revision: 47
+revision: 48
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
     y: 3032
     owner: ponz / sir harris
+  duktak06 - Alelade DM:
+    x: 4064
+    y: 490
+    owner: duktak06
   krzygoat - An unamed house:
     x: 2765
     y: 3428
