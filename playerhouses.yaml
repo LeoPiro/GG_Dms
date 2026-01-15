@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 48
+revision: 49
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -25,6 +25,10 @@ houses:
     x: 2265
     y: 3270
     owner: dhamonick
+  volto_ - Costa Vida DM:
+    x: 2111
+    y: 1143
+    owner: volto_
   dport123 - D-port's Tower of Love:
     x: 1636
     y: 779
