@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 72
+revision: 73
 dockmasters:
   1A-N:
     x: 1054
@@ -152,7 +152,7 @@ dockmasters:
   4B-E:
     x: 3615
     y: 1385
-    owner: unknown
+    owner: Alaric
   4B-S:
     x: 2427
     y: 3032
