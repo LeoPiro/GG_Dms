@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 51
+revision: 52
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -133,10 +133,6 @@ houses:
     x: 3305
     y: 3087
     owner: ultima_online
-  Tugberk - Villa with Tower:
-    x: 3616
-    y: 468
-    owner: Tugberk
   volto_ - W50 Vendor Van:
     x: 2163
     y: 1141
