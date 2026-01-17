@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 53
+revision: 54
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -29,6 +29,10 @@ houses:
     x: 2111
     y: 1143
     owner: volto_
+  timelord2112 - Crafting Hub:
+    x: 2176
+    y: 1105
+    owner: timelord2112
   dport123 - D-port's Tower of Love:
     x: 1636
     y: 779
@@ -113,6 +117,10 @@ houses:
     x: 3660
     y: 3509
     owner: stemcell77
+  tugberkozpir - Suriyeli house:
+    x: 3614
+    y: 463
+    owner: tugberkozpir
   corbinm3 - Tower Bloodrockk:
     x: 3266
     y: 439
@@ -129,6 +137,10 @@ houses:
     x: 3305
     y: 3087
     owner: ultima_online
+  Tugberk - Villa with Tower:
+    x: 3616
+    y: 468
+    owner: Tugberk
   volto_ - W50 Vendor Van:
     x: 2163
     y: 1141
