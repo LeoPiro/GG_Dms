@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 58
+revision: 59
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -57,6 +57,10 @@ houses:
     x: 1139
     y: 2555
     owner: Zaak
+  Guild - MOXI - Humility Shrine House:
+    x: 1229
+    y: 2298
+    owner: Guild - MOXI
   impakt6770 - Impakt:
     x: 4316
     y: 2633
