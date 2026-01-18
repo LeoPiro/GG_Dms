@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 54
+revision: 55
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -61,6 +61,10 @@ houses:
     x: 1420
     y: 2627
     owner: frozenether
+  impakt6770 - Impakt:
+    x: 4316
+    y: 2633
+    owner: impakt6770
   xavi017 - Island:
     x: 2602
     y: 3532
