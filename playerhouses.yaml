@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 59
+revision: 60
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -77,6 +77,10 @@ houses:
     x: 4148
     y: 3249
     owner: lucasnovelli
+  Guild - Geralt Butler - Justice Shrine House:
+    x: 1837
+    y: 838
+    owner: Guild - Geralt Butler
   ileo_games - Leo Nusero House:
     x: 329
     y: 1763
