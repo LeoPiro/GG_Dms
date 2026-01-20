@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 60
+revision: 61
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -25,6 +25,10 @@ houses:
     x: 2265
     y: 3270
     owner: dhamonick
+  hotsauce3000 - Breck's House:
+    x: 1268
+    y: 831
+    owner: hotsauce3000
   volto_ - Costa Vida DM:
     x: 2111
     y: 1143
