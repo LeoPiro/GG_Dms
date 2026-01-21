@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 63
+revision: 64
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -52,6 +52,10 @@ houses:
   drsw33tfing3rs - Doc Gatehouse:
     x: 4310
     y: 206
+    owner: drsw33tfing3rs
+  drsw33tfing3rs - Doc's Knight's Tower:
+    x: 933
+    y: 2263
     owner: drsw33tfing3rs
   alaric7548 - Dockmaster House:
     x: 3617
