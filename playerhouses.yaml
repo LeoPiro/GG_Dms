@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 64
+revision: 65
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -73,6 +73,10 @@ houses:
     x: 1139
     y: 2555
     owner: Zaak
+  m4stic - House Boat - M4stic:
+    x: 3659
+    y: 2566
+    owner: m4stic
   Guild - MOXI - Humility Shrine House:
     x: 1229
     y: 2298
