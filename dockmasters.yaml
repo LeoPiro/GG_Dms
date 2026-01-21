@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 74
+revision: 75
 dockmasters:
   1A-N:
     x: 1054
@@ -529,3 +529,7 @@ dockmasters:
     x: 2323
     y: 990
     owner: Finn
+  6E-N:
+    x: 4309
+    y: 206
+    owner: Doc
