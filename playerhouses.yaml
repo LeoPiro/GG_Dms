@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 62
+revision: 63
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -45,6 +45,10 @@ houses:
     x: 3738
     y: 248
     owner: defiant1348
+  drsw33tfing3rs - Doc Boathouse:
+    x: 4025
+    y: 1497
+    owner: drsw33tfing3rs
   drsw33tfing3rs - Doc Gatehouse:
     x: 4310
     y: 206
