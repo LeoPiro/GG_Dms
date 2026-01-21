@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 65
+revision: 66
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -129,6 +129,10 @@ houses:
     x: 1661
     y: 1227
     owner: xavi017
+  m4stic - Pussy Wagon:
+    x: 1880
+    y: 551
+    owner: m4stic
   Immortil Bro - Pyre House:
     x: 1343
     y: 1723
