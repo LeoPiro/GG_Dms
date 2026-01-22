@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 76
+revision: 77
 dockmasters:
   1A-N:
     x: 1054
@@ -248,7 +248,7 @@ dockmasters:
   7B-S:
     x: 3285
     y: 3554
-    owner: unknown
+    owner: Warface
   7B-W:
     x: 843
     y: 1804
