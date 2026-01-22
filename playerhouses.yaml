@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 68
+revision: 69
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -185,6 +185,10 @@ houses:
     x: 2163
     y: 1141
     owner: volto_
+  warface_jp - Warface:
+    x: 3285
+    y: 3552
+    owner: warface_jp
   zzaaaakk - Zaak's House:
     x: 1139
     y: 2555
