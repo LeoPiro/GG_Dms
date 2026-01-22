@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 69
+revision: 70
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -69,6 +69,10 @@ houses:
     x: 4070
     y: 3436
     owner: anakin0351
+  Tugberk - GG - Suriyeli Multeci:
+    x: 3616
+    y: 468
+    owner: Tugberk
   Zaak - Greystone Manor:
     x: 1139
     y: 2555
