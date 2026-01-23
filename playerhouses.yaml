@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 72
+revision: 73
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -36,6 +36,10 @@ houses:
   bbatuhann - Crab's DM:
     x: 4223
     y: 1176
+    owner: bbatuhann
+  bbatuhann - Crab's cave:
+    x: 3644
+    y: 703
     owner: bbatuhann
   timelord2112 - Crafting Hub:
     x: 2176
