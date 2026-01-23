@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 73
+revision: 74
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -117,6 +117,10 @@ houses:
     x: 1837
     y: 838
     owner: Guild - Geralt Butler
+  kittymeowmeow4904 - Kitty's House:
+    x: 1194
+    y: 2780
+    owner: kittymeowmeow4904
   ileo_games - Leo Nusero House:
     x: 329
     y: 1763
