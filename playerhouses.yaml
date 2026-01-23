@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 71
+revision: 72
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -33,6 +33,10 @@ houses:
     x: 2111
     y: 1143
     owner: volto_
+  bbatuhann - Crab's DM:
+    x: 4223
+    y: 1176
+    owner: bbatuhann
   timelord2112 - Crafting Hub:
     x: 2176
     y: 1105
