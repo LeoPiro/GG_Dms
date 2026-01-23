@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 70
+revision: 71
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -77,6 +77,10 @@ houses:
     x: 1139
     y: 2555
     owner: Zaak
+  himwhoeatstime - Greystone Manor (HimWhoEatsTime):
+    x: 3599
+    y: 989
+    owner: himwhoeatstime
   m4stic - House Boat - M4stic:
     x: 3659
     y: 2566
