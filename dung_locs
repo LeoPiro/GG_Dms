@@ -1,0 +1,6 @@
+pack_name: Dungeon Locations
+revision: 1
+dungeon_locations:
+  d1:
+    x: 5232
+    y: 1973
