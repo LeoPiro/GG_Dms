@@ -439,9 +439,6 @@ dungeon_locations:
   mau14:
     x: 5438
     y: 623
-  mau15:
-    x: 5418
-    y: 657
   mau16:
     x: 5503
     y: 665
