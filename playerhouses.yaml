@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 84
+revision: 85
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -133,10 +133,6 @@ houses:
     x: 3336
     y: 207
     owner: aeryscat
-  tugberkozpir - Norse Small House:
-    x: 1265
-    y: 1244
-    owner: tugberkozpir
   oflu1461 - Oflu's House:
     x: 3816
     y: 1841
