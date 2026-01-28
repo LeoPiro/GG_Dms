@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 80
+revision: 81
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -85,6 +85,10 @@ houses:
     x: 3616
     y: 468
     owner: Tugberk
+  Zaak - Greystone Manor:
+    x: 1139
+    y: 2555
+    owner: Zaak
   himwhoeatstime - Greystone Manor (HimWhoEatsTime):
     x: 3599
     y: 989
@@ -185,6 +189,10 @@ houses:
     x: 1420
     y: 2627
     owner: frozenether
+  theheroroy - The Heroes Rest:
+    x: 570
+    y: 1865
+    owner: theheroroy
   corbinm3 - Tower Bloodrockk:
     x: 3266
     y: 439
