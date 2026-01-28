@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 78
+revision: 79
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -93,6 +93,10 @@ houses:
     x: 3599
     y: 989
     owner: himwhoeatstime
+  Tugberk - Guild - Honor Shrine House:
+    x: 1265
+    y: 1244
+    owner: Tugberk
   m4stic - House Boat - M4stic:
     x: 3659
     y: 2566
@@ -125,6 +129,10 @@ houses:
     x: 1194
     y: 2780
     owner: kittymeowmeow4904
+  ileo_games - Leo Nusero House:
+    x: 329
+    y: 1763
+    owner: ileo_games
   ground_truth - Main House:
     x: 3568
     y: 2889
@@ -173,6 +181,10 @@ houses:
     x: 3660
     y: 3509
     owner: stemcell77
+  tugberkozpir - Suriyeli house:
+    x: 3614
+    y: 463
+    owner: tugberkozpir
   frozenether - Temu's House:
     x: 1420
     y: 2627
@@ -193,6 +205,10 @@ houses:
     x: 3305
     y: 3087
     owner: ultima_online
+  Tugberk - Villa with Tower:
+    x: 3616
+    y: 468
+    owner: Tugberk
   volto_ - W50 Vendor Van:
     x: 2163
     y: 1141
