@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 82
+revision: 83
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -125,10 +125,6 @@ houses:
     x: 1194
     y: 2780
     owner: kittymeowmeow4904
-  ileo_games - Leo Nusero House:
-    x: 329
-    y: 1763
-    owner: ileo_games
   ground_truth - Main House:
     x: 3568
     y: 2889
