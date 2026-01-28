@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 81
+revision: 82
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -85,10 +85,6 @@ houses:
     x: 3616
     y: 468
     owner: Tugberk
-  Zaak - Greystone Manor:
-    x: 1139
-    y: 2555
-    owner: Zaak
   himwhoeatstime - Greystone Manor (HimWhoEatsTime):
     x: 3599
     y: 989
