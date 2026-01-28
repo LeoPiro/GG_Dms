@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 74
+revision: 75
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -77,6 +77,10 @@ houses:
     x: 4070
     y: 3436
     owner: anakin0351
+  finnmacgames - Finnland:
+    x: 2218
+    y: 3403
+    owner: finnmacgames
   Tugberk - GG - Suriyeli Multeci:
     x: 3616
     y: 468
