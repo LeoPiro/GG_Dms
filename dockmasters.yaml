@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 83
+revision: 84
 dockmasters:
   1A-N:
     x: 1054
@@ -241,10 +241,6 @@ dockmasters:
     x: 3299
     y: 3600
     owner: unknown
-  7A-W:
-    x: 354
-    y: 1744
-    owner: Elvenbane
   7B-S:
     x: 3285
     y: 3554
