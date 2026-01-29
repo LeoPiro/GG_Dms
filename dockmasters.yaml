@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 87
+revision: 88
 dockmasters:
   1A-N:
     x: 1054
@@ -526,8 +526,8 @@ dockmasters:
     y: 206
     owner: Doc
   XD6:
-    x: 4216
-    y: 2292
+    x: 4211
+    y: 2288
     owner: Unmedicated
   MUSEUM- GIFT SHOP:
     x: 364
