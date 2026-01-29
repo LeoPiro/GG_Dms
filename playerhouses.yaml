@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 85
+revision: 86
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -165,10 +165,6 @@ houses:
     x: 3660
     y: 3509
     owner: stemcell77
-  tugberkozpir - Suriyeli house:
-    x: 3614
-    y: 463
-    owner: tugberkozpir
   frozenether - Temu's House:
     x: 1420
     y: 2627
