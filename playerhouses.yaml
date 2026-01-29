@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 86
+revision: 87
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -81,6 +81,10 @@ houses:
     x: 3616
     y: 468
     owner: Tugberk
+  LucySnowe - GG - Vendor Mall:
+    x: 3826
+    y: 1881
+    owner: LucySnowe
   himwhoeatstime - Greystone Manor (HimWhoEatsTime):
     x: 3599
     y: 989
