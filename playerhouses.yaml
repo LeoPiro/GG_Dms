@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 87
+revision: 88
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -153,6 +153,10 @@ houses:
     x: 1343
     y: 1723
     owner: Immortil Bro
+  Restless - Restless House:
+    x: 2127
+    y: 453
+    owner: Restless
   Guild - Lost Mary - Spirituality Shrine House:
     x: 2303
     y: 964
