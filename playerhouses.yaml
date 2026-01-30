@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 88
+revision: 89
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -177,6 +177,10 @@ houses:
     x: 1420
     y: 2627
     owner: frozenether
+  arnakk2424 - Terran inn:
+    x: 840
+    y: 1447
+    owner: arnakk2424
   theheroroy - The Heroes Rest:
     x: 570
     y: 1865
