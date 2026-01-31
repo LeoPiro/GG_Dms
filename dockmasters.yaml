@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 88
+revision: 89
 dockmasters:
   1A-N:
     x: 1054
@@ -545,3 +545,7 @@ dockmasters:
     x: 4334
     y: 2355
     owner: Dralcon
+  XD17:
+    x: 4233
+    y: 3150
+    owner: Lostmary
