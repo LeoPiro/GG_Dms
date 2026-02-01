@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 94
+revision: 95
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -165,6 +165,10 @@ houses:
     x: 1343
     y: 1723
     owner: Immortil Bro
+  detun - Rare's House:
+    x: 4173
+    y: 3038
+    owner: detun
   Restless - Restless House:
     x: 2127
     y: 453
