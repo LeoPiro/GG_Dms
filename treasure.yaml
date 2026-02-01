@@ -2133,6 +2133,12 @@ markers:
     owner: "unknown"
 
   # === Landmarks ===
+  Tt Island:
+    x: 3177
+    y: 3737
+    owner: "unknown"
+    icon: "landmark"
+    
   1CE Island:
     x: 426
     y: 941
@@ -2282,3 +2288,4 @@ markers:
     y: 690
     owner: "unknown"
     icon: "landmark"
+
