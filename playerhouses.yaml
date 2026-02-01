@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 98
+revision: 99
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -101,6 +101,10 @@ houses:
     x: 3461
     y: 3212
     owner: Gwystyle
+  HeroRoy - HeroRoy's House:
+    x: 567
+    y: 1871
+    owner: HeroRoy
   m4stic - House Boat - M4stic:
     x: 3659
     y: 2566
