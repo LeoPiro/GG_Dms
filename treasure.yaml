@@ -180,6 +180,31 @@ markers:
     x: 605
     y: 1135
     owner: "unknown"
+    
+  A36:
+    x: 1402
+    y: 1275
+    owner: "unknown"
+
+  A37:
+    x: 1402
+    y: 1496
+    owner: "unknown"
+
+  A38:
+    x: 1775
+    y: 1712
+    owner: "unknown"
+
+  A39:
+    x: 1975
+    y: 1730
+    owner: "unknown"
+
+  A40:
+    x: 1798
+    y: 1595
+    owner: "unknown"
 
   # === CC (Center) Markers ===
   CC1:
@@ -2360,6 +2385,7 @@ markers:
     y: 690
     owner: "unknown"
     icon: "landmark"
+
 
 
 
