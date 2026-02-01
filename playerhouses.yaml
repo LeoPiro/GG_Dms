@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 103
+revision: 104
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -113,6 +113,10 @@ houses:
     x: 3659
     y: 2566
     owner: m4stic
+  ileo_games - House N of F:
+    x: 3487
+    y: 263
+    owner: ileo_games
   Guild - MOXI - Humility Shrine House:
     x: 1229
     y: 2298
