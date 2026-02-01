@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 104
+revision: 105
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -29,6 +29,10 @@ houses:
     x: 1268
     y: 831
     owner: hotsauce3000
+  RuinedKing - Captn'-Resale:
+    x: 3861
+    y: 273
+    owner: RuinedKing
   volto_ - Costa Vida DM:
     x: 2111
     y: 1143
