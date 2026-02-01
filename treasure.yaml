@@ -2133,6 +2133,30 @@ markers:
     owner: "unknown"
 
   # === Landmarks ===
+  DoS Island:
+    x: 570
+    y: 661
+    owner: "unknown"
+    icon: "landmark"
+    
+  7n Island:
+    x: 3073
+    y: 321
+    owner: "unknown"
+    icon: "landmark"
+    
+  NERD Island:
+    x: 1994
+    y: 358
+    owner: "unknown"
+    icon: "landmark"
+    
+  BRvK Island:
+    x: 3108
+    y: 216
+    owner: "unknown"
+    icon: "landmark"
+    
   Hood Island:
     x: 2201
     y: 3606
@@ -2318,5 +2342,6 @@ markers:
     y: 690
     owner: "unknown"
     icon: "landmark"
+
 
 
