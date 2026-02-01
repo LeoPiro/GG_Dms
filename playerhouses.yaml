@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 97
+revision: 98
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -137,6 +137,10 @@ houses:
     x: 4141
     y: 2801
     owner: El Papi Chulo
+  Lurdas - Lurdas' House:
+    x: 1208
+    y: 1397
+    owner: Lurdas
   Maickey - Maickey's house:
     x: 1477
     y: 3024
