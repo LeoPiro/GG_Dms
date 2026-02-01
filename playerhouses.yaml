@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 91
+revision: 92
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -93,6 +93,10 @@ houses:
     x: 1265
     y: 1244
     owner: Tugberk
+  Gwystyle - Gwystyle House:
+    x: 3461
+    y: 3212
+    owner: Gwystyle
   m4stic - House Boat - M4stic:
     x: 3659
     y: 2566
