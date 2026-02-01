@@ -2133,6 +2133,36 @@ markers:
     owner: "unknown"
 
   # === Landmarks ===
+  Hood Island:
+    x: 2201
+    y: 3606
+    owner: "unknown"
+    icon: "landmark"
+    
+  Frnd Island:
+    x: 2379
+    y: 1186
+    owner: "unknown"
+    icon: "landmark"
+    
+  Sqzd Island:
+    x: 4226
+    y: 3323
+    owner: "unknown"
+    icon: "landmark"
+    
+  xBu Island:
+    x: 4410
+    y: 467
+    owner: "unknown"
+    icon: "landmark"
+    
+  MMx Island:
+    x: 3602
+    y: 2463
+    owner: "unknown"
+    icon: "landmark"
+    
   Tt Island:
     x: 3177
     y: 3737
@@ -2288,4 +2318,5 @@ markers:
     y: 690
     owner: "unknown"
     icon: "landmark"
+
 
