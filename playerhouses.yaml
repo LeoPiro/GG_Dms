@@ -1,14 +1,10 @@
 pack_name: Player Houses
-revision: 105
+revision: 106
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
     y: 3032
     owner: ponz / sir harris
-  Aerys - Aerys's House:
-    x: 3342
-    y: 207
-    owner: Aerys
   duktak06 - Alelade DM:
     x: 4064
     y: 490
