@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 101
+revision: 102
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -189,6 +189,10 @@ houses:
     x: 1343
     y: 1723
     owner: Immortil Bro
+  Quernon - Quernon's House:
+    x: 1648
+    y: 635
+    owner: Quernon
   detun - Rare's House:
     x: 4173
     y: 3038
