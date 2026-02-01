@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 102
+revision: 103
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -117,6 +117,10 @@ houses:
     x: 1229
     y: 2298
     owner: Guild - MOXI
+  Hyperion - Hyperion's:
+    x: 1587
+    y: 1886
+    owner: Hyperion
   impakt6770 - Impakt:
     x: 4316
     y: 2633
