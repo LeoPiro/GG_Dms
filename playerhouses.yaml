@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 93
+revision: 94
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -197,6 +197,10 @@ houses:
     x: 570
     y: 1865
     owner: theheroroy
+  RecklessTortuga - Tortuga's House:
+    x: 1516
+    y: 2934
+    owner: RecklessTortuga
   corbinm3 - Tower Bloodrockk:
     x: 3266
     y: 439
