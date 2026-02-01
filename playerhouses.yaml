@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 92
+revision: 93
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -133,6 +133,10 @@ houses:
     x: 4141
     y: 2801
     owner: El Papi Chulo
+  Maickey - Maickey's house:
+    x: 1477
+    y: 3024
+    owner: Maickey
   ground_truth - Main House:
     x: 3568
     y: 2889
