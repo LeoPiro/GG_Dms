@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 89
+revision: 90
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -197,6 +197,10 @@ houses:
     x: 3849
     y: 1844
     owner: bigbooze.
+  La Chatouilleur - Vendor House:
+    x: 4203
+    y: 742
+    owner: La Chatouilleur
   ultima_online - Veramocor's House:
     x: 3305
     y: 3087
