@@ -2133,6 +2133,24 @@ markers:
     owner: "unknown"
 
   # === Landmarks ===
+  IDC Island:
+    x: 618
+    y: 2155
+    owner: "unknown"
+    icon: "landmark"
+    
+  RED Island:
+    x: 829
+    y: 2909
+    owner: "unknown"
+    icon: "landmark"
+    
+  HiTi Island:
+    x: 1664
+    y: 3340
+    owner: "unknown"
+    icon: "landmark"
+    
   DoS Island:
     x: 570
     y: 661
@@ -2342,6 +2360,7 @@ markers:
     y: 690
     owner: "unknown"
     icon: "landmark"
+
 
 
 
