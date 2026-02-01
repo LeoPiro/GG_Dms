@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 90
+revision: 91
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -125,6 +125,10 @@ houses:
     x: 1194
     y: 2780
     owner: kittymeowmeow4904
+  El Papi Chulo - Landaous Lodge:
+    x: 4141
+    y: 2801
+    owner: El Papi Chulo
   ground_truth - Main House:
     x: 3568
     y: 2889
