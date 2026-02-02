@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 107
+revision: 108
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -173,6 +173,10 @@ houses:
     x: 3336
     y: 207
     owner: aeryscat
+  Blastro - N CCC House:
+    x: 984
+    y: 664
+    owner: Blastro
   Friar - Norse Farmstead:
     x: 3969
     y: 1690
