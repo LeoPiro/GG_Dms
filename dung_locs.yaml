@@ -58,6 +58,12 @@ dungeon_locations:
   inf23:
     x: 5911
     y: 2453
+  inf24:
+    x: 5943
+    y: 2347
+  inf25:
+    x: 5865
+    y: 2344
   ssc5:
     x: 5161
     y: 2507
@@ -545,8 +551,8 @@ dungeon_locations:
     x: 6006
     y: 247
   aeg21:
-    x: 6039
-    y: 223
+    x: 6028
+    y: 299
   aeg22:
     x: 6049
     y: 304
@@ -653,8 +659,8 @@ dungeon_locations:
     x: 5979
     y: 1789
   nus16:
-    x: 6061
-    y: 1757
+    x: 6080
+    y: 1746
   nus17:
     x: 6132
     y: 1757
@@ -817,6 +823,9 @@ dungeon_locations:
   pet22:
     x: 5761
     y: 2786
+  pet23:
+    x: 5783
+    y: 2843
   tt5:
     x: 6630
     y: 2050
