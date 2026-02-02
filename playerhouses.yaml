@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 108
+revision: 109
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -173,6 +173,10 @@ houses:
     x: 3336
     y: 207
     owner: aeryscat
+  raveX99 - Main House:
+    x: 3602
+    y: 3315
+    owner: raveX99
   Blastro - N CCC House:
     x: 984
     y: 664
