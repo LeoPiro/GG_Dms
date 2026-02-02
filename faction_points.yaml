@@ -1,0 +1,75 @@
+pack_name: Faction Wayposts
+revision: 1
+locations:
+  F1:
+    x: 1583
+    y: 678
+    name: Frozen Ruins Waypost
+  F2:
+    x: 1270
+    y: 978
+    name: Hunters Blind Waypost
+  F3:
+    x: 999
+    y: 1352
+    name: Zebra Falls Waypost
+  F4:
+    x: 1984
+    y: 762
+    name: Andarian Lumberyard Waypost
+  F5:
+    x: 1803
+    y: 937
+    name: Gate Fortress Waypost
+  F6:
+    x: 1540
+    y: 1252
+    name: Farmland Garrison Waypost
+  F7:
+    x: 1944
+    y: 996
+    name: Ruined House Waypost
+  F8:
+    x: 1972
+    y: 1359
+    name: Abandoned Docks Waypost
+  F9:
+    x: 2147
+    y: 2213
+    name: Melloweed Farm Waypost
+  F10:
+    x: 1051
+    y: 1574
+    name: Lycaeum Bridge Waypost
+  F11:
+    x: 1325
+    y: 1588
+    name: Collapsed Cave Waypost
+  F12:
+    x: 1588
+    y: 1750
+    name: Prevalia Crossroads Waypost
+  F13:
+    x: 1340
+    y: 1916
+    name: Uruk Stronghold Waypost
+  F14:
+    x: 1313
+    y: 2364
+    name: Haven Tripost Waypost
+  F15:
+    x: 1420
+    y: 2750
+    name: Pyramid Ruins Waypost
+  F16:
+    x: 1964
+    y: 1894
+    name: Forsaken Keep Waypost
+  F17:
+    x: 1799
+    y: 2182
+    name: Brigand Headquarters Waypost
+  F18:
+    x: 1621
+    y: 2723
+    name: Destroyed Villa Waypost
