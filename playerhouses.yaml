@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 106
+revision: 107
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -209,6 +209,10 @@ houses:
     x: 2127
     y: 453
     owner: Restless
+  Lumi - South CCC house:
+    x: 1051
+    y: 824
+    owner: Lumi
   Guild - Lost Mary - Spirituality Shrine House:
     x: 2303
     y: 964
