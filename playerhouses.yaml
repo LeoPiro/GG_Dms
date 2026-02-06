@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 109
+revision: 110
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -157,6 +157,10 @@ houses:
     x: 1208
     y: 1397
     owner: Lurdas
+  bigangryreason - MAIN HOUSE:
+    x: 3884
+    y: 1178
+    owner: bigangryreason
   Maickey - Maickey's house:
     x: 1477
     y: 3024
