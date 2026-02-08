@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 110
+revision: 111
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -301,3 +301,7 @@ houses:
     x: 4184
     y: 2625
     owner: nelss7
+  excebo - wee dock:
+    x: 3308
+    y: 3525
+    owner: excebo
