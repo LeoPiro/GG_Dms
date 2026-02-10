@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 111
+revision: 112
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -25,6 +25,10 @@ houses:
     x: 1268
     y: 831
     owner: hotsauce3000
+  jefro0116 - Bucs Den Dock Master:
+    x: 3508
+    y: 1124
+    owner: jefro0116
   RuinedKing - Captn'-Resale:
     x: 3861
     y: 273
