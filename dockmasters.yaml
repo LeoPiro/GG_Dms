@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 111
+revision: 112
 dockmasters:
   1A-N:
     x: 1054
@@ -184,7 +184,7 @@ dockmasters:
   5F-E:
     x: 3645
     y: 1559
-    owner: unknown
+    owner: ManMix
   6A-E:
     x: 3634
     y: 1634
