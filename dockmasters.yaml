@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 97
+revision: 98
 dockmasters:
   1A-N:
     x: 1054
@@ -20,7 +20,7 @@ dockmasters:
   1C-E:
     x: 4345
     y: 937
-    owner: unknown
+    owner: Knaitti
   1C-N:
     x: 1223
     y: 656
