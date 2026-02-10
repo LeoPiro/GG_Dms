@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 96
+revision: 97
 dockmasters:
   1A-N:
     x: 1054
@@ -272,7 +272,7 @@ dockmasters:
   8B-W:
     x: 2290
     y: 2423
-    owner: TemuMandalorian
+    owner: GG - Puggles
   8C-W:
     x: 2230
     y: 2163
