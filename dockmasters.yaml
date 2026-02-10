@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 100
+revision: 101
 dockmasters:
   1A-N:
     x: 1054
@@ -44,7 +44,7 @@ dockmasters:
   1G-E:
     x: 4356
     y: 718
-    owner: unknown
+    owner: Defiant
   2A-E:
     x: 3871
     y: 670
