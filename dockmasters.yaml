@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 112
+revision: 113
 dockmasters:
   1A-N:
     x: 1054
@@ -220,7 +220,7 @@ dockmasters:
   6D-E:
     x: 3787
     y: 1885
-    owner: unknown
+    owner: randomtask
   6D-N:
     x: 4075
     y: 44
