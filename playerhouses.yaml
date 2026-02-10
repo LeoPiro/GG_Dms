@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 113
+revision: 114
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -33,6 +33,10 @@ houses:
     x: 3861
     y: 273
     owner: RuinedKing
+  damj.net - Cold's House:
+    x: 1759
+    y: 1256
+    owner: damj.net
   volto_ - Costa Vida DM:
     x: 2111
     y: 1143
