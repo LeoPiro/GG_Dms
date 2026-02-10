@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 98
+revision: 99
 dockmasters:
   1A-N:
     x: 1054
@@ -36,7 +36,7 @@ dockmasters:
   1E-E:
     x: 4339
     y: 700
-    owner: unknown
+    owner: LostMary
   1F-E:
     x: 4312
     y: 547
