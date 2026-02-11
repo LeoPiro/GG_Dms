@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 140
+revision: 141
 dockmasters:
   1A-N:
     x: 1054
@@ -276,7 +276,7 @@ dockmasters:
   8C-W:
     x: 2230
     y: 2163
-    owner: unknown
+    owner: HawaiaanDreams
   8D-W:
     x: 2030
     y: 2029
