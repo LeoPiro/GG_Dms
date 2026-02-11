@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 115
+revision: 116
 dockmasters:
   1A-N:
     x: 1054
@@ -529,10 +529,6 @@ dockmasters:
     x: 4211
     y: 2288
     owner: Unmedicated
-  MUSEUM- GIFT SHOP:
-    x: 364
-    y: 1768
-    owner: Mitch
   GG - TIME MUSEUM:
     x: 354
     y: 1750
