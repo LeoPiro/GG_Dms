@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 129
+revision: 130
 dockmasters:
   1A-N:
     x: 1054
@@ -56,7 +56,7 @@ dockmasters:
   2A-W:
     x: 1043
     y: 590
-    owner: unknown
+    owner: McStan
   2B-E:
     x: 3947
     y: 1300
