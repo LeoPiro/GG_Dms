@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 142
+revision: 143
 dockmasters:
   1A-N:
     x: 1054
@@ -284,7 +284,7 @@ dockmasters:
   8E-W:
     x: 2043
     y: 1753
-    owner: unknown
+    owner: madfernando
   9A-W:
     x: 2280
     y: 1527
