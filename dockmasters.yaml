@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 139
+revision: 140
 dockmasters:
   1A-N:
     x: 1054
@@ -268,7 +268,7 @@ dockmasters:
   8A-W:
     x: 2292
     y: 2570
-    owner: unknown
+    owner: BigBooze
   8B-W:
     x: 2290
     y: 2423
