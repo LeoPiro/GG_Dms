@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 121
+revision: 122
 dockmasters:
   1A-N:
     x: 1054
@@ -140,7 +140,7 @@ dockmasters:
   4A-S:
     x: 2415
     y: 3128
-    owner: Zoldy
+    owner: Nachius
   4B-E:
     x: 3615
     y: 1385
