@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 143
+revision: 144
 dockmasters:
   1A-N:
     x: 1054
@@ -288,7 +288,7 @@ dockmasters:
   9A-W:
     x: 2280
     y: 1527
-    owner: unknown
+    owner: JohnMaison
   9B-W:
     x: 2175
     y: 1457
