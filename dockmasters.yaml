@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 137
+revision: 138
 dockmasters:
   1A-N:
     x: 1054
@@ -248,7 +248,7 @@ dockmasters:
   7B-W:
     x: 843
     y: 1804
-    owner: unknown
+    owner: Rasteel
   7C-W:
     x: 933
     y: 2266
