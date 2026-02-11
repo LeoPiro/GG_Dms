@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 124
+revision: 125
 dockmasters:
   1A-N:
     x: 1054
@@ -212,7 +212,7 @@ dockmasters:
   6C-S:
     x: 3020
     y: 3666
-    owner: unknown
+    owner: Acrinos
   6C-W:
     x: 775
     y: 1187
