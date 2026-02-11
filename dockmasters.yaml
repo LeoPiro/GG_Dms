@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 141
+revision: 142
 dockmasters:
   1A-N:
     x: 1054
@@ -280,7 +280,7 @@ dockmasters:
   8D-W:
     x: 2030
     y: 2029
-    owner: unknown
+    owner: ShotsFired
   8E-W:
     x: 2043
     y: 1753
