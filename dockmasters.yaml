@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 144
+revision: 145
 dockmasters:
   1A-N:
     x: 1054
@@ -292,7 +292,7 @@ dockmasters:
   9B-W:
     x: 2175
     y: 1457
-    owner: unknown
+    owner: Quernon
   9C-W:
     x: 2283
     y: 1482
