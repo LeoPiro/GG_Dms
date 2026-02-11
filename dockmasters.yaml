@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 123
+revision: 124
 dockmasters:
   1A-N:
     x: 1054
@@ -176,7 +176,7 @@ dockmasters:
   5C-S:
     x: 2747
     y: 3289
-    owner: unknown
+    owner: Silver
   5E-E:
     x: 3535
     y: 1488
