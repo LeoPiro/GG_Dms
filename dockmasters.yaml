@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 114
+revision: 115
 dockmasters:
   1A-N:
     x: 1054
@@ -88,7 +88,7 @@ dockmasters:
   2D-S:
     x: 1801
     y: 3183
-    owner: unknown
+    owner: GG - Temu
   2D-W:
     x: 840
     y: 921
