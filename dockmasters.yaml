@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 132
+revision: 133
 dockmasters:
   1A-N:
     x: 1054
@@ -92,7 +92,7 @@ dockmasters:
   2D-W:
     x: 840
     y: 921
-    owner: unknown
+    owner: Stanley
   2E-N:
     x: 1787
     y: 573
