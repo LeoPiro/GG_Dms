@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 120
+revision: 121
 dockmasters:
   1A-N:
     x: 1054
@@ -68,7 +68,7 @@ dockmasters:
   2B-S:
     x: 1326
     y: 3050
-    owner: unknown
+    owner: JoeNotExotic
   2B-W:
     x: 1052
     y: 612
