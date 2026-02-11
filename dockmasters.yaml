@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 133
+revision: 134
 dockmasters:
   1A-N:
     x: 1054
@@ -152,7 +152,7 @@ dockmasters:
   4B-W:
     x: 467
     y: 1089
-    owner: unknown
+    owner: LambofGod
   4C-N:
     x: 2647
     y: 362
