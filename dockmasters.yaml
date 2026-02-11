@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 138
+revision: 139
 dockmasters:
   1A-N:
     x: 1054
@@ -260,7 +260,7 @@ dockmasters:
   7F-W:
     x: 722
     y: 1864
-    owner: unknown
+    owner: Izomagy
   8A-S:
     x: 3428
     y: 3812
