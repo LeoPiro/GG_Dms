@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 146
+revision: 147
 dockmasters:
   1A-N:
     x: 1054
@@ -545,10 +545,6 @@ dockmasters:
     x: 354
     y: 1750
     owner: GG - Xavi
-  GIFT SHOP:
-    x: 364
-    y: 1768
-    owner: GG - Firko
   5B-N:
     x: 2979
     y: 478
