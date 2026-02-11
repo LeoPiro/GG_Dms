@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 116
+revision: 117
 dockmasters:
   1A-N:
     x: 1054
@@ -529,10 +529,6 @@ dockmasters:
     x: 4211
     y: 2288
     owner: Unmedicated
-  GG - TIME MUSEUM:
-    x: 354
-    y: 1750
-    owner: Xavi
   7A-W:
     x: 346
     y: 1734
