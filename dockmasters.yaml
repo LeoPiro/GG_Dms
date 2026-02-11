@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 136
+revision: 137
 dockmasters:
   1A-N:
     x: 1054
@@ -228,7 +228,7 @@ dockmasters:
   6D-W:
     x: 853
     y: 1132
-    owner: unknown
+    owner: Mogis
   6E-E:
     x: 3820
     y: 1911
