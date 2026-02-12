@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 117
+revision: 118
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -89,10 +89,6 @@ houses:
     x: 2218
     y: 3403
     owner: finnmacgames
-  Tugberk - GG - Honor Shrine House:
-    x: 1265
-    y: 1244
-    owner: Tugberk
   Tugberk - GG - Suriyeli Multeci:
     x: 3616
     y: 468
@@ -229,10 +225,10 @@ houses:
     x: 1051
     y: 824
     owner: Lumi
-  Guild - Lost Mary - Spirituality Shrine House:
+  GG - Spirituality Shrine - Avanier - Spirituality Shrine House:
     x: 2303
     y: 964
-    owner: Guild - Lost Mary
+    owner: GG - Spirituality Shrine - Avanier
   zeh_darkrider - Stanleys DM:
     x: 840
     y: 922
