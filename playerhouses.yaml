@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 124
+revision: 125
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -97,10 +97,6 @@ houses:
     x: 1838
     y: 838
     owner: Geralt Butler
-  Avanier - GG - Spirituality House:
-    x: 2303
-    y: 964
-    owner: Avanier
   Tugberk - GG - Suriyeli Multeci:
     x: 3616
     y: 468
