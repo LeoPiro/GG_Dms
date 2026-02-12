@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 133
+revision: 134
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -261,6 +261,10 @@ houses:
     x: 3266
     y: 439
     owner: corbinm3
+  Tugberk - Tugberk's House:
+    x: 3615
+    y: 464
+    owner: Tugberk
   .v4nt4bl4ck - VANTABLACK-GAMMAKNIFE:
     x: 3971
     y: 3166
