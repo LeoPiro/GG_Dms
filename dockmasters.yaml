@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 153
+revision: 154
 dockmasters:
   1A-N:
     x: 1054
@@ -373,10 +373,6 @@ dockmasters:
     x: 3561
     y: 1994
     owner: Public
-  GG-Shelter:
-    x: 1655
-    y: 2667
-    owner: invisiblej.
   GH:
     x: 4384
     y: 6142
