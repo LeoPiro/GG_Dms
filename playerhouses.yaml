@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 132
+revision: 133
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -89,6 +89,10 @@ houses:
     x: 2218
     y: 3403
     owner: finnmacgames
+  Tugberk - GG - Honor Shrine:
+    x: 1265
+    y: 1244
+    owner: Tugberk
   Moxi - GG - Humility Shrine:
     x: 1229
     y: 2298
