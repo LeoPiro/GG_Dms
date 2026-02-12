@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 115
+revision: 116
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -89,6 +89,10 @@ houses:
     x: 2218
     y: 3403
     owner: finnmacgames
+  Tugberk - GG - Honor Shrine House:
+    x: 1265
+    y: 1244
+    owner: Tugberk
   Tugberk - GG - Suriyeli Multeci:
     x: 3616
     y: 468
