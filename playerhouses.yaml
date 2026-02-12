@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 135
+revision: 136
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -201,10 +201,6 @@ houses:
     x: 3816
     y: 1841
     owner: oflu1461
-  PoisonFish - PoisonFish's House:
-    x: 1741
-    y: 1696
-    owner: PoisonFish
   xavi017 - Prev House:
     x: 1661
     y: 1227
