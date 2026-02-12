@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 118
+revision: 119
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -225,10 +225,6 @@ houses:
     x: 1051
     y: 824
     owner: Lumi
-  GG - Spirituality Shrine - Avanier - Spirituality Shrine House:
-    x: 2303
-    y: 964
-    owner: GG - Spirituality Shrine - Avanier
   zeh_darkrider - Stanleys DM:
     x: 840
     y: 922
@@ -305,6 +301,10 @@ houses:
     x: 4184
     y: 2625
     owner: nelss7
+  fatblade56 - oasis:
+    x: 1310
+    y: 2949
+    owner: fatblade56
   excebo - wee dock:
     x: 3308
     y: 3525
