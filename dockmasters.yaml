@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 151
+revision: 152
 dockmasters:
   1A-N:
     x: 1054
@@ -548,7 +548,7 @@ dockmasters:
   TIME MUSEUM:
     x: 354
     y: 1750
-    owner: Xavi
+    owner: GG - Xavi
   GIFT SHOP:
     x: 364
     y: 1768
