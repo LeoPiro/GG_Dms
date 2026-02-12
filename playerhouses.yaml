@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 129
+revision: 130
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -89,6 +89,10 @@ houses:
     x: 2218
     y: 3403
     owner: finnmacgames
+  Avanier - GG - Spirituality Shrine:
+    x: 2303
+    y: 964
+    owner: Avanier
   LucySnowe - GG - Vendor Mall:
     x: 3826
     y: 1881
