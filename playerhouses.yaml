@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 131
+revision: 132
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -89,6 +89,10 @@ houses:
     x: 2218
     y: 3403
     owner: finnmacgames
+  Moxi - GG - Humility Shrine:
+    x: 1229
+    y: 2298
+    owner: Moxi
   Geralt Butler - GG - Justice Shrine:
     x: 1837
     y: 838
