@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 126
+revision: 127
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -92,10 +92,6 @@ houses:
   Tugberk - GG - Honor House:
     x: 1265
     y: 1244
-    owner: Tugberk
-  Tugberk - GG - Suriyeli Multeci:
-    x: 3616
-    y: 468
     owner: Tugberk
   LucySnowe - GG - Vendor Mall:
     x: 3826
