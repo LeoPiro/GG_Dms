@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 155
+revision: 156
 dockmasters:
   1A-N:
     x: 1054
@@ -16,7 +16,7 @@ dockmasters:
   1B-N:
     x: 1204
     y: 635
-    owner: Gaizka
+    owner: GG - Gaizka
   1C-E:
     x: 4345
     y: 937
