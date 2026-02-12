@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 116
+revision: 117
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -105,10 +105,6 @@ houses:
     x: 3599
     y: 989
     owner: himwhoeatstime
-  Tugberk - Guild - Honor Shrine House:
-    x: 1265
-    y: 1244
-    owner: Tugberk
   Gwystyle - Gwystyle House:
     x: 3461
     y: 3212
