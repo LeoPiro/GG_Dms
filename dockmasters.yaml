@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 154
+revision: 155
 dockmasters:
   1A-N:
     x: 1054
@@ -549,3 +549,7 @@ dockmasters:
     x: 364
     y: 1768
     owner: GG - Firko
+  2C-S:
+    x: 1655
+    y: 2667
+    owner: Invisiblej
