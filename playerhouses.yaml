@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 136
+revision: 137
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -189,6 +189,10 @@ houses:
     x: 1740
     y: 1690
     owner: johnjohn0432
+  acrinos - Main House:
+    x: 4130
+    y: 1067
+    owner: acrinos
   Blastro - N CCC House:
     x: 984
     y: 664
