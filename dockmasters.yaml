@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 156
+revision: 157
 dockmasters:
   1A-N:
     x: 1054
@@ -553,3 +553,7 @@ dockmasters:
     x: 1655
     y: 2667
     owner: Invisiblej
+  13B-W:
+    x: 2347
+    y: 1125
+    owner: Redrum
