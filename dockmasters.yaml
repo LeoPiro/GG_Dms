@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 157
+revision: 158
 dockmasters:
   1A-N:
     x: 1054
@@ -557,3 +557,7 @@ dockmasters:
     x: 2347
     y: 1125
     owner: Redrum
+  2A-S:
+    x: 1328
+    y: 3059
+    owner: MinMax
