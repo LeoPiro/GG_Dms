@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 141
+revision: 142
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -81,6 +81,10 @@ houses:
     x: 3617
     y: 1384
     owner: alaric7548
+  pariah0248858 - Dragon Den (Main House):
+    x: 4027
+    y: 3266
+    owner: pariah0248858
   kur2k - Elvenbane's House:
     x: 4247
     y: 841
