@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 142
+revision: 143
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -125,6 +125,10 @@ houses:
     x: 3461
     y: 3212
     owner: Gwystyle
+  plark - Hills Department Store:
+    x: 3742
+    y: 3224
+    owner: plark
   HolyHomework - Holy's House:
     x: 4041
     y: 2960
