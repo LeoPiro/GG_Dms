@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 159
+revision: 160
 dockmasters:
   1A-N:
     x: 1054
@@ -64,7 +64,7 @@ dockmasters:
   2B-N:
     x: 1359
     y: 443
-    owner: BigDaddy
+    owner: Quernon
   2B-S:
     x: 1326
     y: 3050
