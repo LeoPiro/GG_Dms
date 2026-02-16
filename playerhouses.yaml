@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 144
+revision: 145
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -213,10 +213,10 @@ houses:
     x: 3969
     y: 1690
     owner: Friar
-  oflu1461 - Oflu's House:
+  krzygoat - Oflu's House:
     x: 3816
     y: 1841
-    owner: oflu1461
+    owner: krzygoat
   acrinos - Personal DM House:
     x: 3015
     y: 3663
