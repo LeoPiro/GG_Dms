@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 146
+revision: 147
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -97,6 +97,10 @@ houses:
     x: 2218
     y: 3403
     owner: finnmacgames
+  freezeroo - Freeze's other house:
+    x: 1810
+    y: 1865
+    owner: freezeroo
   freezeroo - Freezes House:
     x: 1810
     y: 1893
