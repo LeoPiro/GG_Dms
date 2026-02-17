@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 145
+revision: 146
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -97,6 +97,10 @@ houses:
     x: 2218
     y: 3403
     owner: finnmacgames
+  freezeroo - Freezes House:
+    x: 1810
+    y: 1893
+    owner: freezeroo
   Tugberk - GG - Honor Shrine:
     x: 1265
     y: 1244
@@ -213,10 +217,10 @@ houses:
     x: 3969
     y: 1690
     owner: Friar
-  krzygoat - Oflu's House:
+  Calico - Oflu's House:
     x: 3816
     y: 1841
-    owner: krzygoat
+    owner: Calico
   acrinos - Personal DM House:
     x: 3015
     y: 3663
