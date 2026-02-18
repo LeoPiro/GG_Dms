@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 147
+revision: 148
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -93,6 +93,10 @@ houses:
     x: 4070
     y: 3436
     owner: anakin0351
+  madfernando - Fernando's Vendor House:
+    x: 2964
+    y: 555
+    owner: madfernando
   finnmacgames - Finnland:
     x: 2218
     y: 3403
