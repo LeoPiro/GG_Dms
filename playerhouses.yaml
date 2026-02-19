@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 149
+revision: 150
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -317,6 +317,10 @@ houses:
     x: 1544
     y: 1826
     owner: jefro0116
+  wontrickpony - Vendor House:
+    x: 3834
+    y: 2794
+    owner: wontrickpony
   ultima_online - Veramocor's House:
     x: 3305
     y: 3087
