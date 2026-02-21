@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 150
+revision: 151
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -145,6 +145,10 @@ houses:
     x: 4041
     y: 2960
     owner: HolyHomework
+  cindrew83 - Home:
+    x: 4028
+    y: 2879
+    owner: cindrew83
   m4stic - House Boat - M4stic:
     x: 3659
     y: 2566
