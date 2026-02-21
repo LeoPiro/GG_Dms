@@ -216,6 +216,36 @@ markers:
     y: 2408
     owner: "unknown"
 
+  A43:
+    x: 1721
+    y: 2585
+    owner: "unknown"
+
+  A44:
+    x: 1595
+    y: 2505
+    owner: "unknown"
+
+  A45:
+    x: 1404
+    y: 2484
+    owner: "unknown"
+
+  A46:
+    x: 1470
+    y: 1520
+    owner: "unknown"
+
+  A47:
+    x: 1983
+    y: 2147
+    owner: "unknown"
+
+  A48:
+    x: 2049
+    y: 1978
+    owner: "unknown"
+
   # === CC (Center) Markers ===
   CC1:
     x: 838
