@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 153
+revision: 154
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -261,6 +261,10 @@ houses:
     x: 4173
     y: 3038
     owner: detun
+  666redrum666 - ReD's Place:
+    x: 2347
+    y: 1125
+    owner: 666redrum666
   Restless - Restless House:
     x: 2127
     y: 453
