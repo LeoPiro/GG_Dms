@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 154
+revision: 155
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -225,6 +225,10 @@ houses:
     x: 3837
     y: 2822
     owner: wontrickpony
+  rhin0cerus - Mogis Tower:
+    x: 3585
+    y: 823
+    owner: rhin0cerus
   Blastro - N CCC House:
     x: 984
     y: 664
