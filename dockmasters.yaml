@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 160
+revision: 161
 dockmasters:
   1A-N:
     x: 1054
@@ -268,7 +268,7 @@ dockmasters:
   8B-W:
     x: 2290
     y: 2423
-    owner: GG - Puggles
+    owner: GG - Chiken
   8C-W:
     x: 2230
     y: 2163
