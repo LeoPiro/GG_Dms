@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 155
+revision: 156
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -357,6 +357,10 @@ houses:
     x: 4184
     y: 2625
     owner: nelss7
+  zoo4ray - main house:
+    x: 1842
+    y: 2287
+    owner: zoo4ray
   fatblade56 - oasis:
     x: 1310
     y: 2949
