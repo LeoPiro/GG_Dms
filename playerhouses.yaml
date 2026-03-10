@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 161
+revision: 162
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -177,6 +177,10 @@ houses:
     x: 1360
     y: 967
     owner: jettomato
+  coupledcreations - Jose Cuervo:
+    x: 3788
+    y: 1857
+    owner: coupledcreations
   lucasnovelli - Junkrat Dock:
     x: 4148
     y: 3249
