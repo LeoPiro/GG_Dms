@@ -1,10 +1,6 @@
 pack_name: GG DOCKMASTERS
-revision: 161
+revision: 162
 dockmasters:
-  1A-N:
-    x: 1054
-    y: 329
-    owner: Bin-Laggin
   1A-S:
     x: 746
     y: 3263
