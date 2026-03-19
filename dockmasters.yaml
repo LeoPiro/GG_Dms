@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 164
+revision: 165
 dockmasters:
   1A-S:
     x: 746
@@ -557,3 +557,7 @@ dockmasters:
     x: 2111
     y: 1143
     owner: Rollo
+  1A-E:
+    x: 3502
+    y: 1124
+    owner: Jefro
