@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 163
+revision: 164
 dockmasters:
   1A-S:
     x: 746
@@ -553,3 +553,7 @@ dockmasters:
     x: 1328
     y: 3059
     owner: MinMax
+  11B-W:
+    x: 2111
+    y: 1143
+    owner: Rollo
