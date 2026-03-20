@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 169
+revision: 170
 dockmasters:
   1A-S:
     x: 746
@@ -561,3 +561,7 @@ dockmasters:
     x: 3502
     y: 1124
     owner: Jefro
+  4C-N*:
+    x: 2647
+    y: 6142
+    owner: unknown
