@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 166
+revision: 167
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -329,6 +329,10 @@ houses:
     x: 3615
     y: 464
     owner: Tugberk
+  justinian1972 - Unnamed House:
+    x: 3461
+    y: 3201
+    owner: justinian1972
   .v4nt4bl4ck - VANTABLACK-GAMMAKNIFE:
     x: 3971
     y: 3166
