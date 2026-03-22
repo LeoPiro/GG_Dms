@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 176
+revision: 177
 dockmasters:
   1A-S:
     x: 746
@@ -565,7 +565,3 @@ dockmasters:
     x: 3779
     y: 58
     owner: circles
-  6B-N*:
-    x: 3658
-    y: 6142
-    owner: unknown
