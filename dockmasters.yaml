@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 172
+revision: 173
 dockmasters:
   1A-S:
     x: 746
@@ -80,7 +80,7 @@ dockmasters:
   2D-N:
     x: 1473
     y: 510
-    owner: Cyric
+    owner: Listen Mate
   2D-S:
     x: 1801
     y: 3183
