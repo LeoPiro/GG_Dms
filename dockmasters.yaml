@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 185
+revision: 186
 dockmasters:
   1A-S:
     x: 746
@@ -595,5 +595,9 @@ dockmasters:
     owner: unknown
   2A-N*:
     x: 1750
+    y: 6142
+    owner: unknown
+  2D-N*:
+    x: 1473
     y: 6142
     owner: unknown
