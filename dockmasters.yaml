@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 170
+revision: 171
 dockmasters:
   1A-S:
     x: 746
@@ -189,10 +189,6 @@ dockmasters:
     x: 2607
     y: 3546
     owner: Xavi
-  6B-N:
-    x: 3653
-    y: 6142
-    owner: unknown
   6B-S:
     x: 2756
     y: 3594
