@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 174
+revision: 175
 dockmasters:
   1A-S:
     x: 746
@@ -561,3 +561,7 @@ dockmasters:
     x: 3658
     y: 77
     owner: nachius
+  6C-N:
+    x: 3779
+    y: 58
+    owner: circles
