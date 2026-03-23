@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 170
+revision: 171
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -249,10 +249,10 @@ houses:
     x: 984
     y: 664
     owner: Blastro
-  Friar - Norse Farmstead:
+  Unknown - Norse Farmstead:
     x: 3969
     y: 1690
-    owner: Friar
+    owner: Unknown
   Calico - Oflu's House:
     x: 3816
     y: 1841
