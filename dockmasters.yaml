@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 194
+revision: 195
 dockmasters:
   1A-S:
     x: 746
@@ -629,3 +629,7 @@ dockmasters:
     x: 4313
     y: 720
     owner: Acrinos
+  2C-E:
+    x: 4223
+    y: 1176
+    owner: a wild crab
