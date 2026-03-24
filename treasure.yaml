@@ -2203,6 +2203,12 @@ markers:
     y: 2155
     owner: "unknown"
     icon: "landmark"
+
+  Rekt Island:
+    x: 3544
+    y: 1624
+    owner: "unknown"
+    icon: "landmark"
     
   RED Island:
     x: 829
