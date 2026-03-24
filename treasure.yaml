@@ -2233,6 +2233,66 @@ markers:
     y: 358
     owner: "unknown"
     icon: "landmark"
+
+  Oynx Island:
+    x: 3828
+    y: 2305
+    owner: "unknown"
+    icon: "landmark"
+
+  TES Island:
+    x: 2374
+    y: 3602
+    owner: "unknown"
+    icon: "landmark" 
+
+  DPS Island:
+    x: 2668
+    y: 284
+    owner: "unknown"
+    icon: "landmark"
+
+  AWN Island:
+    x: 2526
+    y: 852
+    owner: "unknown"
+    icon: "landmark" 
+
+  CN Island:
+    x: 2294
+    y: 2173
+    owner: "unknown"
+    icon: "landmark" 
+
+  OFP Island:
+    x: 1803
+    y: 3316
+    owner: "unknown"
+    icon: "landmark" 
+
+  C-C Island:
+    x: 882
+    y: 2388
+    owner: "unknown"
+    icon: "landmark" 
+
+  LDS Island:
+    x: 3701
+    y: 3694
+    owner: "unknown"
+    icon: "landmark"
+
+  MMx Island:
+    x: 3617
+    y: 2494
+    owner: "unknown"
+    icon: "landmark" 
+
+  AOG Island:
+    x: 3591
+    y: 2604
+    owner: "unknown"
+    icon: "landmark" 
     
   BRvK Island:
     x: 3108
