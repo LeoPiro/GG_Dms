@@ -2282,12 +2282,6 @@ markers:
     owner: "unknown"
     icon: "landmark"
 
-  MMx Island:
-    x: 3617
-    y: 2494
-    owner: "unknown"
-    icon: "landmark" 
-
   AOG Island:
     x: 3591
     y: 2604
