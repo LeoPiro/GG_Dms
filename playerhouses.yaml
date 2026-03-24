@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 171
+revision: 172
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -81,6 +81,10 @@ houses:
     x: 933
     y: 2263
     owner: drsw33tfing3rs
+  iamdoots - Dockmaster:
+    x: 3525
+    y: 1485
+    owner: iamdoots
   alaric7548 - Dockmaster House:
     x: 3617
     y: 1384
@@ -249,10 +253,10 @@ houses:
     x: 984
     y: 664
     owner: Blastro
-  Unknown - Norse Farmstead:
+  dirt_19406 - Norse Farmstead:
     x: 3969
     y: 1690
-    owner: Unknown
+    owner: dirt_19406
   Calico - Oflu's House:
     x: 3816
     y: 1841
