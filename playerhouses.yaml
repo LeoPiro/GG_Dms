@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 172
+revision: 173
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -93,10 +93,6 @@ houses:
     x: 4027
     y: 3266
     owner: pariah0248858
-  kur2k - Elvenbane's House:
-    x: 1646
-    y: 639
-    owner: kur2k
   anakin0351 - FORTRESS:
     x: 4070
     y: 3436
