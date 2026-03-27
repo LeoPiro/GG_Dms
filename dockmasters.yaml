@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 196
+revision: 197
 dockmasters:
   1A-S:
     x: 746
@@ -305,10 +305,6 @@ dockmasters:
     x: 4386
     y: 2879
     owner: LaughingMan
-  XD4:
-    x: 4472
-    y: 2735
-    owner: Vlad
   XD7:
     x: 3413
     y: 3572
