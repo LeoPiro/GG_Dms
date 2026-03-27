@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 197
+revision: 198
 dockmasters:
   1A-S:
     x: 746
@@ -625,3 +625,7 @@ dockmasters:
     x: 4223
     y: 1176
     owner: a wild crab
+  2E-W:
+    x: 734
+    y: 545
+    owner: oflu
