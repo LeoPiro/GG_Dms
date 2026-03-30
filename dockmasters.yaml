@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 199
+revision: 200
 dockmasters:
   1A-S:
     x: 746
@@ -45,10 +45,6 @@ dockmasters:
     x: 3871
     y: 670
     owner: Quernon
-  2A-N:
-    x: 1750
-    y: 527
-    owner: Vlad
   2A-W:
     x: 1043
     y: 590
