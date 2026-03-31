@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 174
+revision: 175
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -313,6 +313,10 @@ houses:
     x: 840
     y: 1447
     owner: arnakk2424
+  johnnycashtx - Texan Mining House:
+    x: 1544
+    y: 2376
+    owner: johnnycashtx
   theheroroy - The Heroes Rest:
     x: 570
     y: 1865
