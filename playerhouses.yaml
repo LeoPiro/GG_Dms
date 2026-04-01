@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 175
+revision: 176
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -197,6 +197,10 @@ houses:
     x: 4141
     y: 2801
     owner: El Papi Chulo
+  Luminant - Lumi2:
+    x: 3551
+    y: 1094
+    owner: Luminant
   Lurdas - Lurdas' House:
     x: 1208
     y: 1397
