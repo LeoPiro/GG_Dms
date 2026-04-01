@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 177
+revision: 178
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -28,6 +28,10 @@ houses:
   Burger Pizza - BurgerPizzaCaravan:
     x: 1816
     y: 1205
+    owner: Burger Pizza
+  Burger Pizza - BurgerPizzaTower:
+    x: 1696
+    y: 1982
     owner: Burger Pizza
   RuinedKing - Captn'-Resale:
     x: 3861
