@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 178
+revision: 179
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -149,6 +149,10 @@ houses:
     x: 3599
     y: 989
     owner: himwhoeatstime
+  trapordiety - Guts Vendor House:
+    x: 4175
+    y: 995
+    owner: trapordiety
   Gwystyle - Gwystyle House:
     x: 3461
     y: 3212
