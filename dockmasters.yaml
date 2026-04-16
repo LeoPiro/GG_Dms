@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 200
+revision: 201
 dockmasters:
   1A-S:
     x: 746
@@ -252,7 +252,7 @@ dockmasters:
   8B-W:
     x: 2290
     y: 2423
-    owner: GG - Chiken
+    owner: GG - LostMary
   8C-W:
     x: 2230
     y: 2163
