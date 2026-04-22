@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 180
+revision: 181
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -9,10 +9,6 @@ houses:
     x: 4064
     y: 490
     owner: duktak06
-  krzygoat - An unamed house:
-    x: 2765
-    y: 3428
-    owner: krzygoat
   .protesilaos - Andaria Mining House:
     x: 2585
     y: 688
