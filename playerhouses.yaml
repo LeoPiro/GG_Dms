@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 181
+revision: 182
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -9,6 +9,10 @@ houses:
     x: 4064
     y: 490
     owner: duktak06
+  xakriel - Alsiel:
+    x: 4036
+    y: 2357
+    owner: xakriel
   .protesilaos - Andaria Mining House:
     x: 2585
     y: 688
