@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 202
+revision: 203
 dockmasters:
   1A-S:
     x: 746
@@ -501,10 +501,6 @@ dockmasters:
     x: 346
     y: 1734
     owner: GG - Elvenbane
-  XD-5:
-    x: 4334
-    y: 2355
-    owner: Dralcon
   XD17:
     x: 4233
     y: 3150
