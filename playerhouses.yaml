@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 182
+revision: 183
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -229,10 +229,6 @@ houses:
     x: 3568
     y: 2889
     owner: ground_truth
-  xdragosx - Main House:
-    x: 4060
-    y: 1743
-    owner: xdragosx
   aeryscat - Main House:
     x: 3336
     y: 207
