@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 185
+revision: 186
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -249,6 +249,10 @@ houses:
     x: 3757
     y: 1850
     owner: mhnaeth
+  ultima_online - Main House:
+    x: 807
+    y: 3089
+    owner: ultima_online
   rocky49 - Main house:
     x: 4137
     y: 1065
