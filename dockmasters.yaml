@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 204
+revision: 205
 dockmasters:
   1A-S:
     x: 746
@@ -141,10 +141,6 @@ dockmasters:
     x: 2427
     y: 3032
     owner: Bubrub
-  4B-W:
-    x: 467
-    y: 1089
-    owner: LambofGod
   4C-N:
     x: 2647
     y: 362
