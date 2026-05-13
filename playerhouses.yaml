@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 186
+revision: 187
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -33,10 +33,6 @@ houses:
     x: 1696
     y: 1982
     owner: Burger Pizza
-  RuinedKing - Captn'-Resale:
-    x: 3861
-    y: 273
-    owner: RuinedKing
   damj.net - Cold's House:
     x: 1759
     y: 1256
