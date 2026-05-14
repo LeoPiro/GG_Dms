@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 187
+revision: 188
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -69,10 +69,10 @@ houses:
     x: 4313
     y: 720
     owner: acrinos
-  granolagay82_91410_47589 - Darcy's Mage Tower:
+  granolagay82 - Darcy's Mage Tower:
     x: 3904
     y: 396
-    owner: granolagay82_91410_47589
+    owner: granolagay82
   drsw33tfing3rs - Doc Boathouse:
     x: 4025
     y: 1497
@@ -129,10 +129,10 @@ houses:
     x: 1229
     y: 2298
     owner: Moxi
-  Geralt Butler - GG - Justice Shrine:
+  Geralt Gardner - GG - Justice Shrine:
     x: 1837
     y: 838
-    owner: Geralt Butler
+    owner: Geralt Gardner
   Avanier - GG - Spirituality Shrine:
     x: 2303
     y: 964
