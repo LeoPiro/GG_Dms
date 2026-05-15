@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 205
+revision: 206
 dockmasters:
   1A-S:
     x: 746
@@ -621,3 +621,7 @@ dockmasters:
     x: 3478
     y: 3658
     owner: butabi17
+  1A-N:
+    x: 1054
+    y: 332
+    owner: Leo
