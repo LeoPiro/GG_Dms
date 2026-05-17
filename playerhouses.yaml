@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 193
+revision: 194
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -401,6 +401,10 @@ houses:
     x: 4184
     y: 2625
     owner: nelss7
+  invisiblej. - invisiblej house:
+    x: 2625
+    y: 589
+    owner: invisiblej.
   zoo4ray - main house:
     x: 1842
     y: 2287
