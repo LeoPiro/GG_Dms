@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 191
+revision: 192
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -133,10 +133,10 @@ houses:
     x: 1229
     y: 2298
     owner: Moxi
-  Geralt Gardner - GG - Justice Shrine:
+  Unknown - GG - Justice Shrine:
     x: 1837
     y: 838
-    owner: Geralt Gardner
+    owner: Unknown
   Avanier - GG - Spirituality Shrine:
     x: 2303
     y: 964
