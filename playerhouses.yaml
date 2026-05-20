@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 194
+revision: 195
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -73,10 +73,6 @@ houses:
     x: 4313
     y: 720
     owner: acrinos
-  granolagay82 - Darcy's Mage Tower:
-    x: 3904
-    y: 396
-    owner: granolagay82
   drsw33tfing3rs - Doc Boathouse:
     x: 4025
     y: 1497
