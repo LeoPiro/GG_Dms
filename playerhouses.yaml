@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 195
+revision: 196
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -265,6 +265,10 @@ houses:
     x: 984
     y: 664
     owner: Blastro
+  nagarond_62682 - Nagga's House:
+    x: 1840
+    y: 1163
+    owner: nagarond_62682
   dirt_19406 - Norse Farmstead:
     x: 3969
     y: 1690
