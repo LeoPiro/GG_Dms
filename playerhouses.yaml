@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 201
+revision: 202
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -333,6 +333,10 @@ houses:
     x: 4195
     y: 3011
     owner: doukaygusuz
+  frozenether - Temu's House:
+    x: 1174
+    y: 906
+    owner: frozenether
   arnakk2424 - Terran inn:
     x: 840
     y: 1447
