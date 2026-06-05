@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 202
+revision: 203
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -281,6 +281,10 @@ houses:
     x: 3816
     y: 1841
     owner: Calico
+  paabloescobar - Pablo House:
+    x: 4327
+    y: 801
+    owner: paabloescobar
   acrinos - Personal DM House:
     x: 3015
     y: 3663
