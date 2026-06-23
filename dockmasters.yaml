@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 208
+revision: 209
 dockmasters:
   1A-S:
     x: 746
@@ -265,10 +265,6 @@ dockmasters:
     x: 2175
     y: 1457
     owner: Quernon
-  9C-W:
-    x: 2283
-    y: 1482
-    owner: MotownPhilly
   10A-W:
     x: 2183
     y: 985
