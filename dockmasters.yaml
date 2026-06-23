@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 207
+revision: 208
 dockmasters:
   1A-S:
     x: 746
@@ -121,10 +121,6 @@ dockmasters:
     x: 2440
     y: 3343
     owner: Karahol
-  4A-E:
-    x: 3719
-    y: 1369
-    owner: bobeep
   4A-N:
     x: 2552
     y: 458
