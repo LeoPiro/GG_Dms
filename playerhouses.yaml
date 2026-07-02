@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 204
+revision: 205
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -21,10 +21,6 @@ houses:
     x: 2265
     y: 3270
     owner: dhamonick
-  ux - Bharom/Gerald House:
-    x: 3813
-    y: 1722
-    owner: ux
   hotsauce3000 - Breck's House:
     x: 1268
     y: 831
@@ -153,6 +149,10 @@ houses:
     x: 3461
     y: 3212
     owner: Gwystyle
+  halloween6456 - Halloween House:
+    x: 2180
+    y: 983
+    owner: halloween6456
   plark - Hills Department Store:
     x: 3742
     y: 3224
