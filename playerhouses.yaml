@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 207
+revision: 208
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -137,6 +137,10 @@ houses:
     x: 3826
     y: 1881
     owner: LucySnowe
+  gingergeuse - Geuse Box:
+    x: 3745
+    y: 2558
+    owner: gingergeuse
   himwhoeatstime - Greystone Manor (HimWhoEatsTime):
     x: 3599
     y: 989
