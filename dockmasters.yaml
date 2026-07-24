@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 210
+revision: 211
 dockmasters:
   1A-S:
     x: 746
@@ -617,3 +617,7 @@ dockmasters:
     x: 1054
     y: 332
     owner: Leo
+  XD4:
+    x: 4446
+    y: 2410
+    owner: Luke
