@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 213
+revision: 214
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -161,10 +161,6 @@ houses:
     x: 3742
     y: 3224
     owner: plark
-  HolyHomework - Holy's House:
-    x: 4041
-    y: 2960
-    owner: HolyHomework
   cindrew83 - Home:
     x: 4028
     y: 2879
