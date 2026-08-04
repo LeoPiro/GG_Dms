@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 217
+revision: 218
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -253,10 +253,6 @@ houses:
     x: 3748
     y: 2560
     owner: robertrauck
-  rocky49 - Main house:
-    x: 4137
-    y: 1065
-    owner: rocky49
   senzek - Main house:
     x: 4235
     y: 807
