@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 218
+revision: 219
 dockmasters:
   1A-S:
     x: 746
@@ -21,10 +21,6 @@ dockmasters:
     x: 1223
     y: 656
     owner: Silenced
-  1D-E:
-    x: 4336
-    y: 796
-    owner: Pablo Escobar
   1D-N:
     x: 1219
     y: 688
