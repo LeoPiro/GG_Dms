@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 217
+revision: 218
 dockmasters:
   1A-S:
     x: 746
@@ -61,10 +61,6 @@ dockmasters:
     x: 1326
     y: 3050
     owner: JoeNotExotic
-  2B-W:
-    x: 1052
-    y: 612
-    owner: Pablo Escobar
   2C-N:
     x: 1456
     y: 533
