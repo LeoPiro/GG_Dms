@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 216
+revision: 217
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -165,10 +165,6 @@ houses:
     x: 4028
     y: 2879
     owner: cindrew83
-  rocky49 - Horse shoe bay DM:
-    x: 1842
-    y: 2287
-    owner: rocky49
   m4stic - House Boat - M4stic:
     x: 3659
     y: 2566
