@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 215
+revision: 216
 dockmasters:
   1A-S:
     x: 746
@@ -185,10 +185,6 @@ dockmasters:
     x: 872
     y: 1303
     owner: Therin
-  6C-S:
-    x: 3020
-    y: 3666
-    owner: Acrinos
   6C-W:
     x: 775
     y: 1187
