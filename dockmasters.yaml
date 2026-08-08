@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 219
+revision: 220
 dockmasters:
   1A-S:
     x: 746
@@ -17,10 +17,6 @@ dockmasters:
     x: 4345
     y: 937
     owner: Knaitti
-  1C-N:
-    x: 1223
-    y: 656
-    owner: Silenced
   1D-N:
     x: 1219
     y: 688
