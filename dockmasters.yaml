@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 220
+revision: 221
 dockmasters:
   1A-S:
     x: 746
@@ -269,10 +269,6 @@ dockmasters:
     x: 4228
     y: 2287
     owner: Nimiak
-  XD3:
-    x: 4386
-    y: 2879
-    owner: LaughingMan
   XD8:
     x: 3666
     y: 2572
