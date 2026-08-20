@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 221
+revision: 222
 dockmasters:
   1A-S:
     x: 746
@@ -41,10 +41,6 @@ dockmasters:
     x: 1043
     y: 590
     owner: McStan
-  2B-E:
-    x: 3947
-    y: 1300
-    owner: Suranz
   2B-N:
     x: 1359
     y: 443
