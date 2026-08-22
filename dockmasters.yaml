@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 222
+revision: 223
 dockmasters:
   1A-S:
     x: 746
@@ -196,7 +196,7 @@ dockmasters:
   7B-S:
     x: 3285
     y: 3554
-    owner: hughhefnerl.o.s.t
+    owner: falson
   7B-W:
     x: 843
     y: 1804
