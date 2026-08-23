@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 223
+revision: 224
 dockmasters:
   1A-S:
     x: 746
@@ -453,10 +453,6 @@ dockmasters:
     x: 4309
     y: 206
     owner: GG - Doc
-  XD6:
-    x: 4211
-    y: 2288
-    owner: Unmedicated
   7A-W:
     x: 346
     y: 1734
