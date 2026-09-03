@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 226
+revision: 227
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -245,6 +245,10 @@ houses:
     x: 3748
     y: 2560
     owner: robertrauck
+  frozenether - Main House:
+    x: 2216
+    y: 3403
+    owner: frozenether
   senzek - Main house:
     x: 4235
     y: 807
