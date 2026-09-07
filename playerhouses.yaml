@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 231
+revision: 232
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -185,6 +185,10 @@ houses:
     x: 4141
     y: 2801
     owner: El Papi Chulo
+  evk14 - Lucy's House:
+    x: 3557
+    y: 873
+    owner: evk14
   lukegagau - Luke´s:
     x: 4446
     y: 2410
