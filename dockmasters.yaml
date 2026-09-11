@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 224
+revision: 225
 dockmasters:
   1A-S:
     x: 746
@@ -589,3 +589,7 @@ dockmasters:
     x: 1899
     y: 543
     owner: Finn MacCool
+  8B-S:
+    x: 3322
+    y: 3694
+    owner: Maleficus
