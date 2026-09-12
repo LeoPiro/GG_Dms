@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 233
+revision: 234
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -81,6 +81,10 @@ houses:
     x: 3525
     y: 1485
     owner: iamdoots
+  rico_lorenzonati - Dockmaster:
+    x: 583
+    y: 861
+    owner: rico_lorenzonati
   alaric7548 - Dockmaster House:
     x: 3617
     y: 1384
