@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 225
+revision: 226
 dockmasters:
   1A-S:
     x: 746
@@ -592,4 +592,8 @@ dockmasters:
   8B-S:
     x: 3322
     y: 3694
+    owner: Maleficus
+  2B-E:
+    x: 4259
+    y: 1061
     owner: Maleficus
