@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 234
+revision: 235
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -133,6 +133,10 @@ houses:
     x: 3826
     y: 1881
     owner: LucySnowe
+  detuun - Get out of my swamp.:
+    x: 4166
+    y: 3038
+    owner: detuun
   gingergeuse - Geuse Box:
     x: 3745
     y: 2558
