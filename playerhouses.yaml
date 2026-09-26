@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 235
+revision: 236
 houses:
   ponz / sir harris - 4 Demon Wagon:
     x: 850
@@ -217,6 +217,10 @@ houses:
     x: 1477
     y: 3024
     owner: Maickey
+  robertrauck - Main:
+    x: 3920
+    y: 1256
+    owner: robertrauck
   ground_truth - Main House:
     x: 3568
     y: 2889
