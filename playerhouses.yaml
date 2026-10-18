@@ -1,10 +1,6 @@
 pack_name: Player Houses
-revision: 239
+revision: 240
 houses:
-  ponz / sir harris - 4 Demon Wagon:
-    x: 850
-    y: 3032
-    owner: ponz / sir harris
   duktak06 - Alelade DM:
     x: 4064
     y: 490
