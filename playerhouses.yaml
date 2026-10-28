@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 240
+revision: 241
 houses:
   duktak06 - Alelade DM:
     x: 4064
@@ -33,10 +33,6 @@ houses:
     x: 1696
     y: 1982
     owner: Burger Pizza
-  damj.net - Cold's House:
-    x: 1759
-    y: 1256
-    owner: damj.net
   volto_ - Costa Vida DM:
     x: 2111
     y: 1143
