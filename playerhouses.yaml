@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 241
+revision: 242
 houses:
   duktak06 - Alelade DM:
     x: 4064
@@ -333,10 +333,6 @@ houses:
     x: 840
     y: 1447
     owner: arnakk2424
-  johnnycashtx - Texan Mining House:
-    x: 1544
-    y: 2376
-    owner: johnnycashtx
   theheroroy - The Heroes Rest:
     x: 570
     y: 1865
