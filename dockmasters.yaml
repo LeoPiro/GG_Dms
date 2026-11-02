@@ -1,5 +1,5 @@
 pack_name: GG DOCKMASTERS
-revision: 227
+revision: 228
 dockmasters:
   1A-S:
     x: 746
@@ -597,3 +597,7 @@ dockmasters:
     x: 4259
     y: 1061
     owner: Maleficus
+  2E-S:
+    x: 1790
+    y: 2389
+    owner: Gwystyle
