@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 242
+revision: 243
 houses:
   duktak06 - Alelade DM:
     x: 4064
@@ -149,10 +149,6 @@ houses:
     x: 2180
     y: 983
     owner: halloween6456
-  cindrew83 - Home:
-    x: 4028
-    y: 2879
-    owner: cindrew83
   justinian1972 - Hook Line and Sinker Bait Shop:
     x: 1790
     y: 2389
