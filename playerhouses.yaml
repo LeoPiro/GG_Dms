@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 243
+revision: 244
 houses:
   duktak06 - Alelade DM:
     x: 4064
@@ -309,6 +309,10 @@ houses:
     x: 2127
     y: 453
     owner: Restless
+  savo07383 - Savo's house:
+    x: 1533
+    y: 929
+    owner: savo07383
   Lumi - South CCC house:
     x: 1051
     y: 824
