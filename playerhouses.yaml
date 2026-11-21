@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 244
+revision: 245
 houses:
   duktak06 - Alelade DM:
     x: 4064
@@ -33,6 +33,10 @@ houses:
     x: 1696
     y: 1982
     owner: Burger Pizza
+  xblastrox - CC House:
+    x: 984
+    y: 664
+    owner: xblastrox
   volto_ - Costa Vida DM:
     x: 2111
     y: 1143
