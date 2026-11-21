@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 245
+revision: 246
 houses:
   duktak06 - Alelade DM:
     x: 4064
@@ -21,6 +21,10 @@ houses:
     x: 2265
     y: 3270
     owner: dhamonick
+  xblastrox - Boat House:
+    x: 3972
+    y: 1453
+    owner: xblastrox
   hotsauce3000 - Breck's House:
     x: 1268
     y: 831
