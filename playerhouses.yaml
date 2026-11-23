@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 246
+revision: 247
 houses:
   duktak06 - Alelade DM:
     x: 4064
@@ -141,10 +141,6 @@ houses:
     x: 3745
     y: 2558
     owner: gingergeuse
-  himwhoeatstime - Greystone Manor (HimWhoEatsTime):
-    x: 3599
-    y: 989
-    owner: himwhoeatstime
   trapordiety - Guts Vendor House:
     x: 4175
     y: 995
