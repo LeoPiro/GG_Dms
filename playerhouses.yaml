@@ -1,5 +1,5 @@
 pack_name: Player Houses
-revision: 248
+revision: 249
 houses:
   duktak06 - Alelade DM:
     x: 4064
@@ -89,10 +89,6 @@ houses:
     x: 3617
     y: 1384
     owner: alaric7548
-  pariah0248858 - Dragon Den (Main House):
-    x: 4027
-    y: 3266
-    owner: pariah0248858
   kur2k - Elvenbane's House:
     x: 1646
     y: 638
